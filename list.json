@@ -1,208 +1,674 @@
 {
-    "Be a good father/husband":   
-        {
-            "marriage":   
-                {
-                    "learn how women's minds work":   
-                        {
-                            "Learn their motives": "Read book x",
-                            "Learn how they process emotions": "Read book y"  
-                        }
-                      ,
-                    "learn how men's minds work":   
-                        {
-                            "Learn their motives": "Read book z",
-                            "Learn how they process emotions": "Read book z2" 
-                        }
-                      
-                }
-              ,
-            "financially stable":   
-                {
-                    "get a job that supports 3+ people":   
-                        {
-                            "Make myself more valuable": "Learn new skills",
-                            "Change to a more prestigious job": "leetcode"
-                        }
-                      
-                }
-              
-        }
-      ,
+  "Be a good father/husband": {
+    "marriage": {
+      "learn how women's minds work": {
+        "Learn their motives": "Read book x",
+        "Learn how they process emotions": "Read book y"
+      },
+      "learn how men's minds work": {
+        "Learn their motives": "Read book z",
+        "Learn how they process emotions": "Read book z2"
+      },
+      "learn how attraction and relationships work": {},
+      "learn how to pull women": {},
+      "learn how to treat/maintain a lady": {},
+      "learn relationship dynamics": {},
+      "learn women social skills": {},
+      "practice social skills/rizz": {},
+      "encorporate what I learned from past relationships": {},
+      "be persistent until I get married and die": {}
+    },
 
-    "Be positively influential on those around me": 
-        {
-            "be positive myself": 
-                {
-                    "learn how to adopt a positive and growth mindset":   
-                        {
-                            "learn how to dismiss pessimism": "do xyz",
-                            "learn how to be optimisitc": "do fff"
-                        }
-                      ,
-                    "learn how to maintain positivity in hardship":   
-                        {
-                            "learn how to not let negativity affect my thinking": "do hhh"
-                        }
-                      
-                }
-            ,
-            "have a social network":   
-                {
-                    "learn how to be amiable and make friends": "read fff",
-                    "learn how to use friends to network even further": "read hhh"
-                }
-              
-        }
-    ,
+    "financially stable": {
+      "get a job that supports 3+ people": {
+        "Make myself more valuable": "Learn new skills",
+        "Change to a more prestigious job": "leetcode"
+      },
+      "have a house + car": {},
+      "start generating passive income that is livable": {},
+      "learn how to retire": {},
+      "become more educated": {},
+      "build a resevoir for excess/emergencies": {},
+      "build a resevoir for vacations/wedding/expenditures": {},
+      "minimize luxurious spending": {}
+    },
+    "be sophistically developed": {
+      "embody fruits of spirit": {},
+      "become wise in the way of life": {},
+      "become mature": {},
+      "become like sharped + polished iron": {},
+      "be able to hold a conversation with everyone": {},
+      "fully self-sufficient": {},
+      "become proficient at hobbies": {},
+      "empathy": {}
+    },
+    "progressed in relationship enough": {
+      "learn how to maintain interest": {},
+      "learn how to build intimate connection": {},
+      "learn the stages and their corresponding recourse": {},
+      "learn role and expectations in a relationship": {},
+      "learn about boundaries and how to manage them": {}
+    },
+    "Have free time": {
+      "learn how to cut useless hobbies out": {},
+      "learn how to balance priorities and follow through": {},
+      "learn how to become more balanced with what you spend time on": {},
+      "learn how to become less lazy": {}
+    },
+    "learn partner skills": {
+      "learn kindness": {},
+      "learn patience": {},
+      "learn love": {},
+      "learn appreciation": {},
+      "learn thoughtfulness": {},
+      "learn how to accomodate all love languages": {},
+      "learn listening": {},
+      "learn communication": {},
+      "learn how to be intimate properly": {},
+      "learn how to support others": {},
+      "learn to be considerate/sacrificial": {},
+      "learn cooking/cleaning/handiwork": {},
+      "learn proper respect": {},
+      "learn to be open to things and growth": {},
+      "learn to be interesting": {},
+      "learn to avoid conflict": {}
+    },
+    "be a strong man": {
+      "be physically strong": {},
+      "be physically fit": {},
+      "be physically healthy": {},
+      "be physically hardened": {},
+      "be emotionally sound": {},
+      "radiate testosterone": {},
+      "have basic survival skills": {},
+      "have traditional male values learned": {},
+      "appreciate femininity as the other half": {},
+      "be like a father in all things": {}
+    },
+    "set a good example": {
+      "always live by virtue and honor": {},
+      "encourage others to live by virtue and honor": {},
+      "follow great examples myself, emulate, and copy what makes them great and easy to opy their examples": {
+        "breakdown all traits and who to study for each": {}
+      }
+    },
+    "have a diverse skillset": {
+      "master time so I can do more": {},
+      "efficiently learn to practice so I need less to do more": {},
+      "take care and interest in many things": {},
+      "do not become complacent": {},
+      "create discipline so I can stay consistent": {}
+    },
+    "be succesful": {
+      "be financially well off": {},
+      "have good raport to my name": {},
+      "have a social circle of successful people": {},
+      "obtain status through work or efforts": {},
+      "exhibit a state of being that is natural, divine, and honorable": {},
+      "create a family": {},
+      "accomplish my goals": {},
+      "set out on travel": {},
+      "create a lasting impact (legacy)": {},
+      "achieves a state where you incite envy and have things to share without sacrifice": {}
+    },
+    "empathy": {
+      "be able to put myself in other's shoes": {
+        " be able to toggle this way of thinking": {},
+        "feel their emotions": {},
+        "have this experience affect my person and invite a reactionary action accordingly": {},
+        "remove the person from their feeling and thoughts and mental state": {}
+      },
+      "be kind and considerate": {},
+      "gain eq, social cues, others desires, how to converse etc": {}
+    },
+    "future thinking": {
+      "do not dunnel vision on desires": {},
+      "plan things for longevity": {},
+      "do not fixate on past": {},
+      "think about all possible outcomes and prepare": {}
+    }
+  },
 
-    "Be kind":   
-        {
+  "Be positively influential on those around me": {
+    "be positive myself": {
+      "learn what positivity is": {},
+      "learn how to be positive": {},
+      "learn how to maintain positivity and dismiss all else": {}
+    },
+    "have a social network": {
+      "learn who is worth adding to social network": {},
+      "learn how to add people to your social network": {},
+      "learn how to prune and maintain the social network": {},
+      "learn how to utilize social network to accomplish goals": {},
+      "practice being friendly and adding people to your social network": {},
+      "explore exploitations of capabilities": {}
+    },
+    "be a man of virtue&&": {},
+    "have a desire for change": {
+      "empathy&&": {},
+      "care about wellfare of others over self": {},
+      "practice service and be quick to help": {}
+    }
+  },
+  "be kind": {
+    "empathy&&": {},
+    "embody Christ&&": {},
+    "have forgiveness": {
+      "understand it's not truly a big deal since neither am I or society truly harmed": {},
+      "empathy&&": {},
+      "realzie grudge/vengeance/distaste harbors no benefit": {},
+      "realize past does not equal present or future": {}
+    },
+    "be slow to anger": {
+      "empathy&&": {},
+      "think before I act": {},
+      "realize anger accomplishes nothing": {},
+      "have patience": {},
+      "separate irritation from the entity causing it": {},
+      "treat others with full respect, always": {}
+    },
+    "have patience": {
+      "understand things do not go as planned": {
+        "learn flexibility": {}
+      },
+      "come up with coping strategies": {},
+      "do not think of your time or efforts as lost": {},
+      "do not blame others for outcomes": {}
+    },
+    "be considerate/thoughtful": {
+      "empatyh &&": {},
+      "be unafraid of sacrifice to bless others": {}
+    },
+    "take genuine interest": {
+      "value the other person as a true human being, equal to self": {},
+      "know I always have something to learn while listening": {},
+      "if time/effort will be used on conversation, you might as well pay attention": {},
+      "empatyh&&": {}
+    },
+    "abide by golden rule": {
+      "empathy&&": {},
+      "be pragmatic about cause and effect": {},
+      "think before acting": {}
+    },
+    "inspire comfort/trust": {
+      "set stage for others": {},
+      "empathy": {},
+      "do not self-impose desires": {},
+      "maintain raport": {},
+      "be dependable": {},
+      "maintain a sharp appearance": {}
+    }
+  },
+  "embody Christ": {
+    "fruits of the spirit": {
+      "learn love": {},
+      "learn joy": {},
+      "learn peace": {},
+      "learn patience": {},
+      "learn kindness": {},
+      "learn goodness": {},
+      "learn gentleness": {},
+      "learn self-control": {}
+    },
+    "learn how to embody all the fruits in your behaviour": {},
+    "alturism": {
+      "learn I am not above others": {},
+      "accept helping others at the 'cost' of myself is okay": {},
+      "empathy&&": {},
+      "practice being alturistic": {}
+    },
+    "contendedness": {
+      "accept what I have is all I need": {},
+      "do not envy, be jealous, or yearn for excess": {},
+      "do not fixate on what was or what could be, but what you have": {}
+    },
+    "alert": {
+      "do not put yourself in states where you cannot be alert": {},
+      "make conscious effort of being present always": {},
+      "give everything your full effort": {}
+    },
+    "deference": {
+      "respect peers and seniors alike": {},
+      "show respect for things people hold deawr": {},
+      "do not place yourself above others": {},
+      "understand that other people's positions (experience,history,etc) and because it does not match mine, respect them equally": {}
+    },
+    "trust in the Lord": {
+      "know He provides": {},
+      "know I will/must abide to His will": {},
+      "know I am feearfully and wonderfully made in His image": {},
+      "depend on God completely": {},
+      "believe in God only": {},
+      "hope in God entirely": {},
+      "wait on God patiently": {}
+    },
+    "be generous": {
+      "empathy&&": {},
+      "do not be stingy of what I 'own' ": {}
+    },
+    "forgiveness&&": {},
+    "punctual": {
+      "respect other's time since it is God's gift to them, not mine to take": {},
+      "make a conscious effort of knowing your obligations and responsibiltiers and accomodating": {},
+      "empathy&&": {}
+    },
+    "responsible": {
+      "be accountable (for yourself + others)": {},
+      "be dependable": {},
+      "take care of everyone and everything": {},
+      "have control and everything in order": {},
+      "know what is going on and how to see things through to finish": {}
+    },
+    "sincere": {
+      "be honest": {},
+      "do everything out of love, not self-preservation": {},
+      "empatyh&&": {},
+      "mean everything you do, or don't do it": {}
+    },
+    "truthful": {
+      "maintain your reputation": {},
+      "empathy&&": {},
+      "learn to not lie and be deceptive": {}
+    }
+  },
 
-        }
-      ,
+  "Be selfless": {
+    "empathy&&": {},
+    "alturism&&": {},
+    "comradery": {
+      "recognize all people are like me": {},
+      "recognize everyone has something to bring to the table": {},
+      "recognize everyone has different pasts and mindsets": {},
+      "look out for others": {}
+    },
+    "not stingy with own resources": {
+      "realize I do not 'own' anything": {},
+      "realize me 'owning' that thing is not more important than others": {},
+      "realize by serving I do not 'lose' anything myself": {}
+    }
+  },
+  "Be able to provide protection/providence/comfort": {
+    "be a father figure&&": {},
+    "have enough assets&&": {},
+    "have the time, energy, and efforts": {},
+    "do not overstep your bounds": {
+      "learn to know what your bounds are": {},
+      "learn proper risk assessment and its associated award": {},
+      "defend your bounds from other people": {},
+      "learn to read the room and see if you are overstepping": {}
+    },
+    "be strong&&": {},
+    "empathy&&": {},
+    "successful&&": {},
+    "virtuous": {},
+    "be able to predict and prepare for future": {
+      "be exhaustive and act according to all possibilities": {}
+    },
+    "alert&&": {},
+    "be constant and unchanging": {
+      "do not be a turbulent, changing personality": {},
+      "be a rock that does not change": {}
+    },
+    "be considerate&&": {},
+    "be gentle": {
+      "learn my limits": {},
+      "learn what others find to be too rough": {},
+      "act out of love": {}
+    },
+    "do not be scary": {
+      "be constant": {},
+      "do not act out of anger/impulse": {},
+      "empathy&&": {},
+      "trustworthy": {},
+      "have no malintent": {}
+    }
+  },
+  "Help those in need or those who are lost": {
+    "wisdom to know how to help": {
+      "never stop persuing knowledge or how things work": {},
+      "learn how things work or why things happened": {},
+      "refer to experts, history, models for shortcuts": {},
+      "prioritize puruit of knowledge above all else": {},
+      "be relentless with your practice in solidifying what you learn": {}
+    },
+    "ability to help": {
+      "teach (learn skill first)": {
+        "learn how people learn and cater curriculum to peer": {},
+        "learn how to speak to convey your message well": {},
+        "genuinely care about the peer's learning and accomodate accordingly": {}
+      },
+      "serve others": {
+        "learn how to tell how the person is deficient and fill the hole": {},
+        "learn how to serve without coming across as demeaning": {},
+        "genuinely care about their feelings": {}
+      },
+      "communication with others": {
+        "learn rhetoric": {},
+        "learn social cues": {},
+        "learn logic": {},
+        "learn how to listen": {},
+        "learn charisma": {},
+        "learn how to put others before yourself": {}
+      },
+      "give yourself the position to help (be successful)": {
+        "enable yourself by having resources to give": {}
+      }
+    }
+  },
+  "Be manly": {
+    "meticulous": {
+      "take note of everything": {},
+      "compare and contrast implications of everything": {},
+      "leave no stone unturned": {},
+      "make best action after intense and intentful deliberation": {}
+    },
+    "stoic": {
+      "be constant with your physical expression": {},
+      "do not succumb to pain or pleasures": {},
+      "do not treat others with difference": {},
+      "face life and death objectively": {},
+      "live your live in accordance to nature, divine, and virtue": {}
+    },
+    "strong of will": {
+      "figure what is the truth you should pursue": {},
+      "do not falter from the pursuit of truth": {}
+    },
+    "discipline": {
+      "hold yourself accountable to the pursuit of truth": {},
+      "repent from diverting from the pursuit of truth": {}
+    },
+    "high testosterone": {
+      "exercise": {},
+      "eat healthy": {},
+      "omit modern technology": {},
+      "sleep": {},
+      "embody a good state of mind": {},
+      "get time in the sun daily": {}
+    },
+    "strong in faith": {
+      "embody Christ&&": {},
+      "pursue improvement actively, devote yourself to being a follower of christ": {},
+      "go out and make disciples": {}
+    },
+    "reach physical strength limits": {
+      "keep training with consistency": {},
+      "diversify your training": {
+        "athletic training": {},
+        "explosiveness training": {},
+        "endurance training": {},
+        "mass-focused training": {},
+        "bodily function focused training": {},
+        "body reinforcement training": {},
+        "strength training": {},
+        "aesthetic focused training": {},
+        "emphasize your mechanics": {},
+        "learn how to diversify": {},
+        "optimize and schedule your training": {}
+      },
+      "do physical feats that stress and shock the body regularly": {
+        "think about goals you want to accomplish, then schedule them": {},
+        "do not chicken out and expand the difficulty": {}
+      },
+      "eat well": {
+        "maintain macro-rich diet": {},
+        "learn nutrition": {},
+        "be aware of your own consumption": {},
+        "learn variation in diet": {},
+        "learn about/encorporate intermittent fasting": {}
+      },
+      "take good care of body": {
+        "be strong of heart, soul, mind": {},
+        "see to your own needs": {},
+        "do not irreversibly stress your body": {},
+        "do not partake in things that poison the body": {},
+        "do not let others abuse your body": {}
+      },
+      "stay mentally sharp": {
+        "problem solve regularly": {},
+        "work on new things regularly": {},
+        "learn new things regularly": {},
+        "socialize regularly": {},
+        "do something creative regularly": {},
+        "do something that stresses your memory capabilities regularly": {},
+        "journal/pray regularly": {},
+        "reflect on yourself for improvement regularly": {},
+        "speak out when your mind is ill": {}
+      }
+    }
+  },
+  "Accomplish something great (put in all, create a legacy)": {
+    "become really good/knowledgable about something": {
+      "learn how to learn": {},
+      "learn how to practice": {},
+      "learn how to prioritize": {},
+      "learn how to time-manage": {},
+      "learn how to maintain motivation/devotion": {},
+      "make your mission your whole life: eat, sleep, breathe it": {},
+      "learn how to retain information": {},
+      "learn how to be self-critical and improve": {},
+      "learn how to take your skills to the next level": {}
+    },
+    "have the drive to pursue something": {
+      "find why you care about something and pile your wood on top of that": {},
+      "learn how to push yourself even further": {},
+      "see the future and yield of your efforts and use this as fuel": {},
+      "think about weight on shoulders and the responsibility for greatness resting on it": [],
+      "think about how you want to do it all the way for the respect on your name": {},
+      "think about how it is your journey, not others, so you must finish it": {}
+    },
+    "find something meaningul, impactful, and somethign you are truly passionate about": {
+      "learn how to comb through data efficiently": {},
+      "learn what you are good at": {},
+      "learn how to cater to your strengths and weaknesses": {},
+      "learn to apply your abilities to your appropriate niche": {},
+      "learn how to properly grind and apply yourself": {}
+    },
+    "sacrifice/see your goal to completion": {
+      "know how much/what you can give to make progress/accomplish your goal": {},
+      "plan out stages and progression": {},
+      "finish what you start": {},
+      "be retroactive and retrospective at every stage in the process": {},
+      "give it your all": {}
+    },
+    "make your future better": {
+      "be future focused": {},
+      "have empathy&&": {},
+      "have systematic thinking": {},
+      "make effort timeless and age-proof": {}
+    },
+    "have your name tied to your legacy": {
+      "make your efforts known (not for fame)": {},
+      "make sure what you did was great enough to be associated to you and you alone": {}
+    }
+  },
 
-    "Embody Christ":   
-        {
-
-        }
-      ,
-
-    "Be selfless":   
-        {
-
-        }
-      ,
-
-    "Be able to provide protection/providence/comfort":   
-        {
-
-        }
-      ,
-
-    "Help those in need or those who are lost":   
-        {
-
-        }
-      ,
-
-    "Be manly":   
-        {
-
-        }
-      ,
-
-    "Reach physical strength limits":   
-        {
-
-        }
-      ,
-
-    "Become disciplined":   
-        {
-
-        }
-      ,
-
-    "Reach willpower strength limits":   
-        {
-
-        }
-      ,
-
-    "Fuel desire for knowledge and wisdom forver":   
-        {
-
-        }
-      ,
-    
-    "Accomplish something great (put in all, create a legacy)":   
-        {
-
-        }
-      ,
-
-    "Be prepared for everything":   
-        {
-
-        }
-      ,
-
-    "Become emotionally and socially aware and intelligent":   
-        {
-
-        }
-      ,
-
-    "Be a man of virtue":   
-        {
-
-        }
-      ,
-
-    "Become self-sufficient and  sustaining":   
-        {
-
-        }
-      ,
-
-    "Become well respected and known by all":   
-        {
-
-        }
-      ,
-
-    "Carry my name with pride and instill that within others":   
-        {
-
-        }
-      ,
-
-    "Learn/learn of all skills necessary to life/life's beauty":   
-        {
-
-        }
-      ,
-
-    "To not want/be content":   
-        {
-
-        }
-      ,
-
-    "To be accepting of all":   
-        {
-
-        }
-      ,
-
-    "To think about things fairly in relation to each other and derive action from that":   
-        {
-
-        }
-      ,
-
-    "To appreciate beauty":   
-        {
-
-        }
-      ,
-
-    "Be someone I would want my son to be like":   
-        {
-
-        }
-      ,
-
-    "Be someone my mother would be proud of":   
-        {
-
-        }
-      ,
-
-    "Be a gentleman":   
-        {
-
-        }
-      
+  "Fuel desire for knowledge and wisdom forver": {
+    "truly want to know everything": {},
+    "truly love learning": {},
+    "force yourself to learn": {},
+    "give yourself milestones/checks for motivation of learning": {
+      "plan out important markers of learning": {},
+      "monument each marker with a positive feedback loop": {}
+    },
+    "stay on path entire life and do not deviate": {}
+  },
+  "Be prepared for everything": {
+    "be ready": {
+      "alert and responsive at all times": {}
+    }
+  },
+  "Become emotionally and socially aware and intelligent": {
+    "learn what high EQ/awareness looks like and emulate it": {},
+    "learn how to obtain emotional/socially aware state": {},
+    "learn how to practice being emotionally and socially aware": {},
+    "learn how to save face and make a good impression always": {}
+  },
+  "Be a man of virtue": {
+    "follow the natural order": {
+      "learn and practice how to be akin to an earth dweller": {},
+      "learn and practice how to be akin to a human": {},
+      "learn and practice how to be akin to a man": {},
+      "learn and practice how to be akin to your role in society": {},
+      "learn and practice how to be in akin to your divine nature": {}
+    },
+    "always do what is right": {
+      "learn what is right and what is wrong and how to peroperly assess it": {},
+      "have discipline and stick to what's right despite pitfalls": {},
+      "do not expect anything in return for your actions": {}
+    },
+    "keep your promises": {
+      "have pride in your word and what it stands for": {},
+      "give out your word rarely, always withy full intent": {},
+      "if you transgress your promise, repent and make up for it": {}
+    }
+  },
+  "Become self-sufficient and  sustaining": {
+    "learn basic lifeskills": {
+      "learn how to cook": {},
+      "learn how to home improve": {},
+      "learn survival skills": {},
+      "learn caretaking": {},
+      "learn basic hygiene": {},
+      "learn how to properly clean": {},
+      "learn how to bake": {},
+      "learn how to sew/crochet/modify fabric": {},
+      "learn how to take care of your clothes": {},
+      "learn how to + actively budget": {},
+      "learn how to grow plants": {}
+    },
+    "learn how to provide": {
+      "fill gaps others have": {},
+      "be so well off that you can give others without loss": {}
+    },
+    "be independent": {
+      "learn what it takes to be able to do something without assistance": {},
+      "learn whtat it takes to be able to learn how to get to the point of no assistance": {},
+      "learn how to wheen off during your journey to maximize progress and how to not need assistance": {}
+    }
+  },
+  "Become well respected and known by all": {
+    "be charismatic": {
+        "learn rhetoric (pathos/logos/ethos)": {},
+        "learn how to be aesthetic (visually)": {},
+        "learn how to be current with trends": {},
+        "learn how to be friendly": {},
+        "learn persuasion": {},
+        "learn how to public speak": {},
+        "learn how to inspire interest (enigmatism)": {},
+        "learn how to have confidence": {},
+        "learn how to invoke feelings in others": {},
+        "learn how to be agreeable": {},
+        "learn how to be funny/witty": {},
+        "learn to be composed at all times": {}
+    },
+    "know you are with whom you associate": {},
+    "do not slander your own name/self-respect": {
+        "know your own worth and do not tolerate less": {},
+        "have divine/natural expectations of your own being and do not align with other paradigms": {},
+        "hold yourself accountable to your own goals/expectations": {}
+    }
+  },
+  "Carry my name with pride and instill that within others": {
+    "care about your own bloodline and what happens to it": {},
+    "align with the divine and be proud of that": {}
+  },
+  "Learn/learn of all skills necessary to life/life's beauty": {
+    "learn to appreciate art": {
+        "learn the steps to produce the art": {},
+        "learn how to appreciate the art": {},
+        "learn how to create the art (yourself)": {},
+        "practice creating the art until proficient": {}
+    },
+    "learn philosophy": {
+        "study all fields of philosophy": {},
+        "make your own take on all concepts or ideas": {},
+        "feedback findings and ideas into your own actions": {}
+    },
+    "travel the world": {
+        "learn how to be safe when traveling": {},
+        "go experience everything the world has to offer": {}
+    },
+    "learn how to attune with nature": {
+        "learn survival skills": {},
+        "go visit the wonders of the world": {},
+        "tune into primal nature spirit": {}
+    }
+  },
+  "To not want/be content": {
+    "know everything you have is not yours": {},
+    "know the Lord provides everything you need": {},
+    "know you truly need nothing": {},
+    "do not idealize on something 'more', because it that loop will never end": {}
+  },
+  "To be accepting of all": {
+    "understand that everyone is different": {},
+    "understand that it is your job to be the water in everyone's desert": {}
+  },
+  "To think about things fairly in relation to each other and derive action from that": {
+    "learn morals and ethics": {
+        "learn basics and applications of morals and ethics": {},
+        "engrain the basics of morals and ethics into your mind and behaviour": {}
+    },
+    "control your impulse": {
+        "do not act out on emotion or intuition": {},
+        "learn tools to slow yourself down/toggle to a state where you can ponder your actions": {}
+    },
+    "learn to be assertive": {
+        "align actions with beliefs, no beating around the bush": {},
+        "do not be surprised by anything natural": {},
+        "learn how to function in high-stress situations": {},
+        "get things done no matter what": {}
+    },
+    "learn to be non-turbulent": {
+        "don't be surprised": {},
+        "control your emotions": {},
+        "control your impulse": {}
+    },
+    "weigh each item equally (openmindedness)": {
+        "do not refute ideas outright": {},
+        "consider each item carefully": {},
+        "be non-biased to selection": {},
+        "be flexible to compromise": {}
+    },
+    "be pragmatic": {
+        "learn fundamentals of pragmaticism": {},
+        "learn how to balance pragmaticism with other paradigms": {}
+    }
+  },
+  "To appreciate beauty": {
+    "learn that not everything needs a function or to be efficient": {},
+    "live in the moment/be mindful": {
+        "live in the present": {},
+        "do not be weighed down by thoughts": {},
+        "appreciate what is happening and how it is happening": {}
+    },
+    "connect with nature/spiritual/divine self": {
+        "be humble": {}
+    }
+  },
+  "be honorable": {
+    "hold self-accountable": {},
+    "treat others well and all the same": {},
+  },
+  "Be someone I would want my son to be like": {
+    "do not consume porn": {},
+    "do not participate in hookups": {},
+    "do not be discontent": {},
+    "do not be wasteful of your time": {},
+    "do not be afraid to take risks": {
+        "learn that there is no real risk, it is all in your head": {},
+        "be fine with being uncomfortable": {},
+        "practice taking risks": {}
+    },
+    "do not be calloused towards people": {}
+  },
+  "Be someone my mother would be proud of": {
+    "be a good brother": {
+        "care for family and treat them with love": {}
+    }
+  },
+  "Be a gentleman": {
+    "learn what low-class habits are and how to avoid them": {},
+    "learn what high-class habits are and how to emulate them (look at examples)": {}
+  }
 }
