@@ -43,7 +43,7 @@ def get_wrapped_text(text: str, font: ImageFont.ImageFont,
                 lines[-1] = line
             else:
                 lines.append(word)
-        return '\n'.join(lines)
+        return '\n'.join(lines), len(lines)
 
 
 
@@ -62,11 +62,9 @@ for item in selection:
 hi = get_len()-1
 
 
-selected = random.randint(0, hi)
-ttp = paths[hi][-1]
-ttp = "the quick brown fox jumped over the yellow dog"
-
-
+selected = random.randint(0, len(cat_item)-1)
+print(selected)
+ttp = cat_item[selected][1]
 
 char_len = len(ttp)
 width = 828
@@ -75,24 +73,34 @@ height = 1792
 im = Image.new("RGB", (width, height), "white")
 draw = ImageDraw.Draw(im)
 
-print(char_len)
-
-font_size = int((height / char_len))
+#font_size = int((height / char_len))
+font_size = 1000
 font = ImageFont.truetype("Arial.ttf", font_size)
-print(font_size)
-ttp = get_wrapped_text(ttp, font, line_length=660)
+
+
 text = ttp
-
-
 while font_size > 1:
-  if font.getlength(text) < width:
+  if font.getlength(text) < width*.6:
     break
   font_size -= 1
   font = font.font_variant(size=font_size)
 
+print(font_size)
+print(width/font_size)
+print((width/font_size))
+text, text_l = get_wrapped_text(text, font, line_length=((10*font_size)))
+print(text_l)
+
+if text_l == 2:
+    font = font.font_variant(size=font_size*1.33)
+
+elif text_l > 2:
+    font = font.font_variant(size=font_size*text_l)
+
 draw.multiline_text((width / 2, height / 2), text, font=font, fill="black", anchor="mm")
 im.save("out.png")
 
+print(selection)
 
 
 

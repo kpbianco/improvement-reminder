@@ -9,9 +9,9 @@
         "Learn their motives": "Read book z",
         "Learn how they process emotions": "Read book z2"
       },
-      "learn how attraction and relationships work": {},
-      "learn how to pull women": {},
-      "learn how to treat/maintain a lady": {},
+      "learn how attraction and relationships work": "this is a super long quote to test the functionality of auto scaling text",
+      "learn how to pull women": "this is a testaaaaaa a a a",
+      "learn how to treat/maintain a lady": "this is a testaaaa a",
       "learn relationship dynamics": {},
       "learn women social skills": {},
       "practice social skills/rizz": {},
@@ -648,7 +648,7 @@
   },
   "be honorable": {
     "hold self-accountable": {},
-    "treat others well and all the same": {},
+    "treat others well and all the same": {}
   },
   "Be someone I would want my son to be like": {
     "do not consume porn": {},
