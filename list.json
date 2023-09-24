@@ -2,12 +2,20 @@
   "Be a good father/husband": {
     "marriage": {
       "learn how women's minds work": {
-        "Learn their motives": "Read book x",
-        "Learn how they process emotions": "Read book y"
+        "Learn their motives": {
+          "Method": "Read book A"
+        },
+        "Learn how they process emotions": {
+          "Method": "Read book y"
+        }
       },
       "learn how men's minds work": {
-        "Learn their motives": "Read book z",
-        "Learn how they process emotions": "Read book z2"
+        "Learn their motives": {
+          "Method": "Read book z"
+        },
+        "Learn how they process emotions": {
+          "Method": "Read book z2"
+        }
       },
       "learn how attraction and relationships work": "this is a super long quote to test the functionality of auto scaling text",
       "learn how to pull women": "this is a testaaaaaa a a a",

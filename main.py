@@ -103,53 +103,73 @@ elif text_l > 2:
     font = font.font_variant(size=font_size*text_l)
 
 draw.multiline_text((width / 2, height / 2), text, font=font, fill="black", anchor="mm")
+chosen_path = "->".join(lookup_path(ttp)[:-1])
+
+
+font_size = 1000
+font2 = ImageFont.truetype("Arial.ttf", font_size)
+while font_size > 1:
+  if font2.getlength(text) < width*.6:
+    break
+  font_size -= 1
+  font2 = font2.font_variant(size=font_size)
+
+text2, text_l2 = get_wrapped_text(chosen_path, font2, line_length=((15*font_size)))
+
+if text_l2 == 2:
+    font2 = font.font_variant(size=font_size*1.33)
+
+elif text_l2 > 2:
+    font2 = font.font_variant(size=font_size*0.225)
+
+draw.multiline_text((width / 2, height-(height*0.1)), text=text2, font=font2, fill="black", anchor="mm" )
 im.save("static/out.png")
 
-print(selection)
+print(text_l2)
 
-account_sid = 'AC92725fde0df1a6f6e72c2a0d05e2873f'
-auth_token = 'c83fe16b493490afbeeb5ecd3f05c2fe'
-client = Client(account_sid, auth_token)
 
-def message_handler():
-    print('got here')
+# account_sid = 123
+# auth_token = 123
+# client = Client(account_sid, auth_token)
 
-def send_mms():
-    #account_sid = os.environ['AC92725fde0df1a6f6e72c2a0d05e2873f']
-    #auth_token = os.environ['c83fe16b493490afbeeb5ecd3f05c2fe']
+# def message_handler():
+#     print('got here')
+
+# def send_mms():
+
     
 
-    message = client.messages \
-        .create(
-            body='Test 1',
-            media_url='https://raw.githubusercontent.com/dianephan/flask_upload_photos/main/UPLOADS/DRAW_THE_OWL_MEME.png',
-            from_='+18333962867',
-            to='+15756445190'
-        )
+#     message = client.messages \
+#         .create(
+#             body='New Challenge',
+#             media_url='https://raw.githubusercontent.com/dianephan/flask_upload_photos/main/UPLOADS/DRAW_THE_OWL_MEME.png',
+#             from_='+',
+#             to='+'
+#         )
 
-    print(message.sid)
-
-
-messages = client.messages.list(
-    from_='+15756445190',
-    to="+18333962867"
-)
-
-curr_items = len(messages)
-
-def check_messages():
-    messages = client.messages.list(
-        from_='+15756445190',
-        to="+18333962867"
-    )
-
-    if len(messages) > curr_items:
-        message_handler("out.png")
-        send_mms()
-        curr_items = len(messages)
+#     print(message.sid)
 
 
-test = check_messages()
-print(test)
+# messages = client.messages.list(
+#     from_='+',
+#     to="+"
+# )
+
+# curr_items = len(messages)
+
+# def check_messages():
+#     messages = client.messages.list(
+#         from_='+',
+#         to="+"
+#     )
+
+#     if len(messages) > curr_items:
+#         message_handler("out.png")
+#         send_mms()
+#         curr_items = len(messages)
+
+
+# test = check_messages()
+# print(test)
 
 
