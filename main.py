@@ -12,6 +12,7 @@ with open("list.json") as list:
 
 cat_item = []
 selection = []
+sel_dict = {}
 paths = []
 tdl = []
 
@@ -21,11 +22,9 @@ def get_keys(input_dict):
         if isinstance(value, dict):
             for subkey in get_keys(value):
                 yield key + '->' + subkey
-        elif isinstance(value, str):
-            cat_item.append((key, value))
-            yield value
-        else:
-            yield key
+        cat_item.append(key)
+        yield key
+        
 
 def lookup_path(value):
     for item in paths:
@@ -68,8 +67,8 @@ hi = get_len()-1
 
 
 selected = random.randint(0, len(cat_item)-1)
-print(selected)
-ttp = cat_item[selected][1]
+
+ttp = cat_item[selected]
 
 char_len = len(ttp)
 width = 828
@@ -82,8 +81,8 @@ draw = ImageDraw.Draw(im)
 font_size = 1000
 font = ImageFont.truetype("Arial.ttf", font_size)
 
-
 text = ttp
+print(type(ttp))
 while font_size > 1:
   if font.getlength(text) < width*.6:
     break
@@ -103,8 +102,10 @@ elif text_l > 2:
     font = font.font_variant(size=font_size*text_l)
 
 draw.multiline_text((width / 2, height / 2), text, font=font, fill="black", anchor="mm")
-chosen_path = "->".join(lookup_path(ttp)[:-1])
-
+print(ttp)
+chosen_path = lookup_path(ttp)
+chosen_path = "->".join(chosen_path[:-1])
+print(chosen_path)
 
 font_size = 1000
 font2 = ImageFont.truetype("Arial.ttf", font_size)
@@ -114,13 +115,15 @@ while font_size > 1:
   font_size -= 1
   font2 = font2.font_variant(size=font_size)
 
-text2, text_l2 = get_wrapped_text(chosen_path, font2, line_length=((15*font_size)))
+text2, text_l2 = get_wrapped_text(chosen_path, font2, line_length=((10*font_size)))
 
-if text_l2 == 2:
-    font2 = font.font_variant(size=font_size*1.33)
+font2 = font2.font_variant(size=font_size*(text_l2/height*100)*text_l2)
 
-elif text_l2 > 2:
-    font2 = font.font_variant(size=font_size*0.225)
+# if text_l2 == 2:
+#     font2 = font2.font_variant(size=font_size*.66)
+
+# elif text_l2 > 2:
+#     font2 = font2.font_variant(size=font_size*0.225*text_l2)
 
 draw.multiline_text((width / 2, height-(height*0.1)), text=text2, font=font2, fill="black", anchor="mm" )
 im.save("static/out.png")

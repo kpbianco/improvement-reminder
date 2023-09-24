@@ -2,29 +2,31 @@
   "Be a good father/husband": {
     "marriage": {
       "learn how women's minds work": {
-        "Learn their motives": {
-          "Method": "Read book A"
-        },
-        "Learn how they process emotions": {
-          "Method": "Read book y"
-        }
+        "Learn their motives":  "Read book A",
+        "Learn how they process emotions": "Read book y"
       },
       "learn how men's minds work": {
-        "Learn their motives": {
-          "Method": "Read book z"
-        },
-        "Learn how they process emotions": {
-          "Method": "Read book z2"
-        }
+        "Learn their motives": "Read book z",
+        "Learn how they process emotions": "Read book z2"
       },
-      "learn how attraction and relationships work": "this is a super long quote to test the functionality of auto scaling text",
-      "learn how to pull women": "this is a testaaaaaa a a a",
-      "learn how to treat/maintain a lady": "this is a testaaaa a",
-      "learn relationship dynamics": {},
-      "learn women social skills": {},
-      "practice social skills/rizz": {},
-      "encorporate what I learned from past relationships": {},
-      "be persistent until I get married and die": {}
+      "learn how attraction and relationships work": {
+        "learn what makes people interested in each other romantically": "Read book z2",
+        "learn how to use peoples innate desires for genetic superiority to boost own attractiveness": "Read book z2",
+        "learn what makes other people attractive to me": "Read book z2",
+        "learn how to turn basic physical attraction and nurture it into pure attraction/seduction": "Read book z2",
+        "learn how to convert mutual attractiveness into relationships": "Read book z2",
+        "learn how to maintain attractiveness over a period of time": "Read book z2",
+        "learn the mens role in a relationship": "Read book z2",
+        "learn the womens role in a relationship": "Read book z2",
+        "learn how to cater to a woman's needs/desires for relational harmony": "Read book z2"
+      },
+      "learn how to pull women": "Read book z2",
+      "learn how to treat/maintain a lady": "Read book z2",
+      "learn relationship dynamics": "Read book z2",
+      "learn women social skills": "Read book z2",
+      "practice social skills/rizz": "Read book z2",
+      "encorporate what I learned from past relationships": "Read book z2",
+      "be persistent until I get married and die": "Read book z2"
     },
 
     "financially stable": {
