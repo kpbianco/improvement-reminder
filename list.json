@@ -1,494 +1,1282 @@
 {
-  "Be a good father/husband": {
-    "marriage": {
-      "learn how women's minds work": {
-        "Learn their motives":  "Read book A",
-        "Learn how they process emotions": "Read book y"
-      },
-      "learn how men's minds work": {
-        "Learn their motives": "Read book z",
-        "Learn how they process emotions": "Read book z2"
-      },
-      "learn how attraction and relationships work": {
-        "learn what makes people interested in each other romantically": "Read book z2",
-        "learn how to use peoples innate desires for genetic superiority to boost own attractiveness": "Read book z2",
-        "learn what makes other people attractive to me": "Read book z2",
-        "learn how to turn basic physical attraction and nurture it into pure attraction/seduction": "Read book z2",
-        "learn how to convert mutual attractiveness into relationships": "Read book z2",
-        "learn how to maintain attractiveness over a period of time": "Read book z2",
-        "learn the mens role in a relationship": "Read book z2",
-        "learn the womens role in a relationship": "Read book z2",
-        "learn how to cater to a woman's needs/desires for relational harmony": "Read book z2"
-      },
-      "learn how to pull women": "Read book z2",
-      "learn how to treat/maintain a lady": "Read book z2",
-      "learn relationship dynamics": "Read book z2",
-      "learn women social skills": "Read book z2",
-      "practice social skills/rizz": "Read book z2",
-      "encorporate what I learned from past relationships": "Read book z2",
-      "be persistent until I get married and die": "Read book z2"
-    },
-
-    "financially stable": {
-      "get a job that supports 3+ people": {
-        "Make myself more valuable": "Learn new skills",
-        "Change to a more prestigious job": "leetcode"
-      },
-      "have a house + car": {},
-      "start generating passive income that is livable": {},
-      "learn how to retire": {},
-      "become more educated": {},
-      "build a resevoir for excess/emergencies": {},
-      "build a resevoir for vacations/wedding/expenditures": {},
-      "minimize luxurious spending": {}
-    },
-    "be sophistically developed": {
-      "embody fruits of spirit": {},
-      "become wise in the way of life": {},
-      "become mature": {},
-      "become like sharped + polished iron": {},
-      "be able to hold a conversation with everyone": {},
-      "fully self-sufficient": {},
-      "become proficient at hobbies": {},
-      "empathy": {}
-    },
-    "progressed in relationship enough": {
-      "learn how to maintain interest": {},
-      "learn how to build intimate connection": {},
-      "learn the stages and their corresponding recourse": {},
-      "learn role and expectations in a relationship": {},
-      "learn about boundaries and how to manage them": {}
-    },
-    "Have free time": {
-      "learn how to cut useless hobbies out": {},
-      "learn how to balance priorities and follow through": {},
-      "learn how to become more balanced with what you spend time on": {},
-      "learn how to become less lazy": {}
-    },
-    "learn partner skills": {
-      "learn kindness": {},
-      "learn patience": {},
-      "learn love": {},
-      "learn appreciation": {},
-      "learn thoughtfulness": {},
-      "learn how to accomodate all love languages": {},
-      "learn listening": {},
-      "learn communication": {},
-      "learn how to be intimate properly": {},
-      "learn how to support others": {},
-      "learn to be considerate/sacrificial": {},
-      "learn cooking/cleaning/handiwork": {},
-      "learn proper respect": {},
-      "learn to be open to things and growth": {},
-      "learn to be interesting": {},
-      "learn to avoid conflict": {}
-    },
-    "be a strong man": {
-      "be physically strong": {},
-      "be physically fit": {},
-      "be physically healthy": {},
-      "be physically hardened": {},
-      "be emotionally sound": {},
-      "radiate testosterone": {},
-      "have basic survival skills": {},
-      "have traditional male values learned": {},
-      "appreciate femininity as the other half": {},
-      "be like a father in all things": {}
-    },
-    "set a good example": {
-      "always live by virtue and honor": {},
-      "encourage others to live by virtue and honor": {},
-      "follow great examples myself, emulate, and copy what makes them great and easy to opy their examples": {
-        "breakdown all traits and who to study for each": {}
-      }
-    },
-    "have a diverse skillset": {
-      "master time so I can do more": {},
-      "efficiently learn to practice so I need less to do more": {},
-      "take care and interest in many things": {},
-      "do not become complacent": {},
-      "create discipline so I can stay consistent": {}
-    },
-    "be succesful": {
-      "be financially well off": {},
-      "have good raport to my name": {},
-      "have a social circle of successful people": {},
-      "obtain status through work or efforts": {},
-      "exhibit a state of being that is natural, divine, and honorable": {},
-      "create a family": {},
-      "accomplish my goals": {},
-      "set out on travel": {},
-      "create a lasting impact (legacy)": {},
-      "achieves a state where you incite envy and have things to share without sacrifice": {}
-    },
-    "empathy": {
-      "be able to put myself in other's shoes": {
-        " be able to toggle this way of thinking": {},
-        "feel their emotions": {},
-        "have this experience affect my person and invite a reactionary action accordingly": {},
-        "remove the person from their feeling and thoughts and mental state": {}
-      },
-      "be kind and considerate": {},
-      "gain eq, social cues, others desires, how to converse etc": {}
-    },
-    "future thinking": {
-      "do not dunnel vision on desires": {},
-      "plan things for longevity": {},
-      "do not fixate on past": {},
-      "think about all possible outcomes and prepare": {}
-    }
-  },
-
   "Be positively influential on those around me": {
     "be positive myself": {
-      "learn what positivity is": {},
-      "learn how to be positive": {},
-      "learn how to maintain positivity and dismiss all else": {}
+      "learn what positivity is": {
+        "learn what positive mental attitude is": "Method"
+      },
+      "learn how to be positive": {
+        "learn how to apply a positive mental attitude to the way you act": "Method"
+      },
+      "learn how to maintain positivity and dismiss all else": {
+        "learn how to ignore negativity": "Method",
+        "learn how to radiate positivity even in bleak moments": "Method"
+      }
     },
     "have a social network": {
-      "learn who is worth adding to social network": {},
-      "learn how to add people to your social network": {},
-      "learn how to prune and maintain the social network": {},
-      "learn how to utilize social network to accomplish goals": {},
-      "practice being friendly and adding people to your social network": {},
-      "explore exploitations of capabilities": {}
+      "learn how to add people to your social network": {
+        "learn how to befriend people and then add them as a contact to connect with" : "Method"
+      },
+      "learn how to prune and maintain the social network": {
+        "learn how to remove toxic people from your life": "Method",
+        "learn how to escalate/descalate the relevance of people in your life based off what they bring": "Method",
+        "learn how to encourage posiitve people in your life": "Method"
+      },
+      "learn how to utilize social network to accomplish goals": {
+        "learn how to identify talents and utilizations of your network": "Method",
+        "learn how to use the talents of your network to supplement your own abilities": "Method"
+      },
+      "explore exploitations of capabilities": {
+        "learn how to prevent yourself from be used by others": "Method"
+      },
+      "learn how to be a great brother to others and have their back": {
+        "learn what it is your friends need from you and provide it": "Method",
+        "learn how to always be available and supporting of your friends": "Method",
+        "learn to treat your friends better than yourself": "Method"
+      }
     },
-    "be a man of virtue&&": {},
     "have a desire for change": {
-      "empathy&&": {},
-      "care about wellfare of others over self": {},
-      "practice service and be quick to help": {}
+      "care about wellfare of others over self": {
+        "learn that humans are of one body, a society, and taking care of others is taking care of yourself": "Method",
+        "learn how to accept that I may not receive the best outcome for myself if I help others": "Method"
+      },
+      "practice service and be quick to help": {
+        "learn how to be less hesitant or apprehensive with helping, and make it second nature": "Method",
+        "learn how to always be in a state where you are willing and capable of helping others": "Method"
+      }
     }
   },
   "be kind": {
-    "empathy&&": {},
-    "embody Christ&&": {},
     "have forgiveness": {
-      "understand it's not truly a big deal since neither am I or society truly harmed": {},
-      "empathy&&": {},
-      "realzie grudge/vengeance/distaste harbors no benefit": {},
-      "realize past does not equal present or future": {}
+      "understand it's not truly a big deal since neither am I or society truly harmed": {
+        "learn to forgive others, since it has no impact on yourself or society": "Method",
+        "learn how to give the other person the benefit of the doubt and not be upset with them for what they do": "Method"
+      },
+      "realize grudge/vengeance/distaste harbors no benefit": {
+        "learn that holding grudge/vengeance/distaste for things harbors no benefit": "Method",
+        "learn that positive reactions for ill behaviours have many benefits": "Method"
+      },
+      "realize past does not equal present or future": {
+        "learn that peoples behaviour in the past may not be replicated now or in the future": "Method",
+        "learn how to not hold the past against people": "Method"
+      }
     },
     "be slow to anger": {
-      "empathy&&": {},
-      "think before I act": {},
-      "realize anger accomplishes nothing": {},
-      "have patience": {},
-      "separate irritation from the entity causing it": {},
-      "treat others with full respect, always": {}
+      "think before I act": {
+        "learn how to not be impulsive or emotionally driven in your actions": "Method",
+        "learn how to think about all plans of action and how to choose the best one quickly": "Method"
+      },
+      "separate irritation from the entity causing it": {
+        "learn that objects and the way we interpret the objects are two different things": "Method",
+        "learn that all irritation is caused from me having a problem with it, not the entity causing it": "Method"
+      },
+      "treat others with full respect, always": {
+        "learn how to treat everyone equally": "Method",
+        "learn how to never think of, treat, or respect others less for whatever reason": "Method"
+      }
     },
     "have patience": {
       "understand things do not go as planned": {
-        "learn flexibility": {}
+        "learn flexibility": {
+          "learn how to go with the flow" : "Method",
+          "learn how to compromise with others": "Method",
+          "learn how to not get attached to the plans I have made in my head" : "Method"
+        }
       },
-      "come up with coping strategies": {},
-      "do not think of your time or efforts as lost": {},
-      "do not blame others for outcomes": {}
-    },
-    "be considerate/thoughtful": {
-      "empatyh &&": {},
-      "be unafraid of sacrifice to bless others": {}
+      "come up with coping strategies": {
+        "learn how to deal with 'triggers' that invoke negative emotion": "Method",
+        "learn and practice making if 'x' bad thing occurs I do 'y'": "Method"
+      },
+      "do not think of your time or efforts as lost": {
+        "learn that you learn something from everything, even if your time or effort is destroyed": "Method",
+        "learn how to not be attached to what you make or spend energy on" : "Method",
+        "learn that nothing is ever destroyed, just converted to a different energy" : "Method"
+      },
+      "do not blame others for outcomes": {
+        "learn to not put the blame of an outcome on another person": "Method",
+        "learn how to find the root cause of an outcome, not the person or culprit": "Method"
+      }
     },
     "take genuine interest": {
-      "value the other person as a true human being, equal to self": {},
-      "know I always have something to learn while listening": {},
-      "if time/effort will be used on conversation, you might as well pay attention": {},
-      "empatyh&&": {}
+      "value the other person as a true human being, equal to self": {
+        "learn and accept that whatever you go through on a daily basis, others experience as well" : "Method"
+      },
+      "know I always have something to learn while listening": {
+        "whenever speaking with someone, never tune out, since there is something to learn": "Method"
+      },
+      "if time/effort will be used on conversation, you might as well pay attention": {
+        "never participate in a conversation if you have no intention of paying attention": "Method"
+      }
+    },
+    "Be a good father/husband": {
+      "marriage": {
+        "learn how women's minds work": {
+          "Learn womens motives":  "Method",
+          "Learn how women interpret new stimuli": "Method",
+          "Learn how women process emotions": "Method",
+          "Learn how women take action": "Method",
+          "Learn how women socialize": "Method",
+          "Learn women's strengths/weaknesses in mind": "Method"
+        },
+        "learn how men's minds work": {
+          "Learn men's motives": "Method",
+          "Learn how men interpret new stimuli": "Method",
+          "Learn how men process emotions": "Method",
+          "Learn how men take action": "Method",
+          "Learn how men socialize": "Method",
+          "Learn men's strengths/weaknesses in mind": "Method"
+        },
+        "learn how attraction and relationships work": {
+          "learn what makes people interested in each other romantically": "Method",
+          "learn how to use peoples innate desires for genetic superiority to boost own attractiveness": "Method",
+          "learn what makes other people attractive to me": "Method",
+          "learn how to turn basic physical attraction and nurture it into pure attraction/seduction": "Method",
+          "learn how to convert mutual attractiveness into relationships": "Method",
+          "learn how to maintain attractiveness over a period of time": "Method",
+          "learn the mens role in a relationship": "Method",
+          "learn the womens role in a relationship": "Method",
+          "learn the stages and ins and outs of relationships": "Method",
+          "learn how relationships with women change over time": "Method",
+          "learn the role a relationship with a woman plays in your life": "Method",
+          "learn how to cater to a woman's needs/desires for relational harmony": "Method"
+        },
+        "learn how to pull women": {
+          "learn how to become what women find attractive": "Method",
+          "learn how to not have nerves and be smooth when talking with women": "Method",
+          "learn how to build up repoire fast with women and convert it into a hangout": "Method",
+          "learn how to leave a lasting impression on women, leaving them wanting more": "Method",
+          "learn how to be interesting so women will want to hangout with you again": "Method",
+          "learn social cues with women on how to push/pull boundaries and make moves": "Method"
+        },
+        "learn how to treat/maintain a lady": {
+          "learn what kind of chivalric behaviour you should use to treat a women with": "Method",
+          "learn how to maintain composure in the presence of a woman": "Method",
+          "learn how to treat a woman well regardless of romantic interest or appreciation": "Method",
+          "learn how to be a romantic": "Method",
+          "learn how to be gentle with women": "Method"
+        },
+        "learn women social skills": {
+          "learn what women like to talk about": "Method",
+          "learn how to control men 'vulgarity' around women": "Method",
+          "learn how to listen and care to what women have to say": "Method",
+          "learn how to tell stories and frame speech to cater to women": "Method"
+        },
+        "practice social skills/rizz": {
+          "practice talking with strangers": "Method",
+          "practice talking with strangers that are women (intended but without intention)": "Method",
+          "practice talking with strangers that are women (with intention)": "Method",
+          "practice talking with coworkers/different coworkers (networking)": "Method",
+          "practice talking with the people I would normally avoid talking to": "Method",
+          "practice talking with other men": "Method"
+        },
+        "encorporate what I learned from past relationships": "Method",
+        "be persistent until I get married and die": "Method2"
+      },
+  
+      "financially stable": {
+        "get a job that supports 3+ people": {
+          "Make myself more valuable as a employee": "Method",
+          "Change to a more prestigious job": "Method",
+          "learn more marketable skills": "Method"
+        },
+        "do not be in debt": {
+          "learn how to have healthy debt and avoid debt altogether": "Method"
+        },
+        "start generating passive income that is livable": {
+          "learn passive income generation methods": "Method",
+          "learn how to get into real estate": "Method",
+          "learn how to apply my skills using modern day technologies": "Method"
+        },
+        "learn how to retire": {
+          "learn what it takes to retire": "Method",
+          "learn what I need to do in order to retire": "Method",
+          "learn what it takes for me to be able to do what I need to do to retire": "Method"
+        },
+        "become more educated": {
+          "learn how to invest": "Method",
+          "learn how to buy assets": "Method",
+          "learn how to have your money earn you more money": "Method",
+          "learn how to properly side-hustle": "Method",
+          "learn macroeconomics": "Method",
+          "learn microeconomics": "Method",
+          "learn finance": "Method",
+          "learn business": "Method",
+          "learn marketing": "Method",
+          "learn US money laws": "Method",
+          "learn how to setup children financially": "Method"
+        },
+        "build a resevoir of savings for emergencies": {
+          "learn how to budget": "Method",
+          "learn how to know what to save for": "Method",
+          "learn how to make money in excess to be able to reserve, whilst saving": "Method"
+        },
+        "minimize luxurious spending": {
+          "learn how to control impulse spending": "Method",
+          "learn how to be content with what you have": "Method",
+          "learn to not buy things for happiness or status": "Method",
+          "learn how to buy the best or most expensive, but what is suitable to its purpose": "Method"
+        }
+      },
+      "be sophistically developed": {
+        "embody fruits of spirit": {
+          "learn how to love": "Method",
+          "learn how to be joyous": "Method",
+          "learn how to be patient": "Method",
+          "learn how to be peaceful": "Method",
+          "learn how to be kind": "Method",
+          "learn how to be good": "Method",
+          "learn how to be faithful": "Method",
+          "learn how to be gentle": "Method",
+          "learn how to have self control": "Method"
+        },
+        "become wise in the way of life": {
+          "learn the basic components that comprise life for living things": "Method",
+          "learn the basic components that comprise life for humans": "Method",
+          "learn the history of the world": "Method",
+          "learn the aspects and facets of life that would lead to your success": "Method",
+          "learn how to understand your role in life and how to play it": "Method"
+        },
+        "become mature": {
+          "learn what it means to be mature": "Method",
+          "learn how to embody maturity": "Method",
+          "pracice deliberately being mature": "Method"
+        },
+        "become like sharpened + polished iron": {
+          "learn how to refine yourself to improve on your capabilities": "Method",
+          "learn how to polish yourself to make your performance consistent and impressive": "Method"
+        },
+        "be able to hold a conversation with everyone": {
+          "learn basic concepts of all fields (biology, computer science, mining etc..)": "Method",
+          "learn how to keep current on happenings in the world (news)": "Method"
+        },
+        "fully self-sufficient": {
+          "learn how to learn things yourself without aid": "Method",
+          "learn how to not rely on aid when things get tough (grit)": "Method",
+          "learn how to be resourceful": "Method"
+        },
+        "become proficient at hobbies": {
+          "learn how to put deliberate practice into hobbies for maximum yield": "Method",
+          "learn how to consistently practice despite making no progress or plateauing": "Method"
+        }
+      }, 
+      "progressed in relationship enough": {
+        "learn how to maintain interest": {
+          "learn how to find what partner finds interesting": "Method",
+          "learn how to make a conscious effort to keep the spark of dating alive": "Method"
+        },
+        "learn how to build intimate connection": {
+          "learn what the prerequisites for intimate connection are": "Method",
+          "learn how to meet the prerequisites for intimate connection": "Method"
+        },
+        "learn the stages and their corresponding recourse": {
+          "learn the stages of relationship": "Method",
+          "learn how to frame mind and action based off of stage of relationship": "Method"
+        },
+        "learn role and expectations in a relationship": {
+          "learn what it is I am to provide my partner in a relationship": "Method",
+          "learn what it is I would like from my partner in a relationship": "Method",
+          "learn what to reasonably expect from my partner in a relationship": "Method",
+          "learn what to reasonably expect from myself towards my partner in a relationship": "Method"
+        },
+        "learn about boundaries and how to manage them": {
+          "learn what my boundaries are for my romantic relationship": "Method",
+          "learn what my partners boundaries are in a romantic relationship": "Method",
+          "learn how to lean into, and accomodate our relational boundaries": "Method"
+        }
+      },
+      "Have free time": {
+        "learn how to cut useless hobbies out": {
+          "learn how to realistically evaluate what is a waste of time and what is not": "Method",
+          "learn how to say goodbye to hobbies I like or am attached to": "Method",
+          "learn how to replace the hobby-void with something productive": "Method"
+        },
+        "learn how to balance priorities and follow through": {
+          "learn how to map out list of priorities and rank them": "Method",
+          "Learn how to make sure each category of priorities are being met and under scrutiny": "Method",
+          "learn how to follow through with current priority": "Method"
+        },
+        "learn how to become more balanced with what you spend time on": {
+          "learn how to consume things in moderation": "Method",
+          "learn how to choose what is right over what I want to do": "Method"
+        },
+        "learn how to become less lazy": {
+          "learn how to determine what is laziness versus smart efficiency": "Method",
+          "learn how to put negative emphasis on lazy things and positive on productive things" : "Method",
+          "learn how to be active in true accordance with nature despite desire of being lazy": "Method"
+        }
+      },
+      "learn partner skills": {
+        "learn appreciation": {
+          "learn what it is to be appreciative": "Method",
+          "learn how to find appreciation in everything": "Method",
+          "learn how to express your appreciation": "Method"
+        },
+        "learn thoughtfulness": {
+          "learn what it means to be thoughtful": "Method",
+          "learn how to be thoughtful in everyday life": "Method",
+          "learn how to make others feel thought-of": "Method"
+        },
+        "learn how to accomodate all love languages": {
+          "learn each of the love languages in and out": "Method",
+          "learn how to accomodate each of the love languages": "Method",
+          "learn how to detect what love language your partner has": "Method"
+        },
+        "learn listening": {
+          "learn the difference between passive and active listening": "Method",
+          "learn how to actively listen": "Method",
+          "learn how to not give your input when listening": "Method",
+          "learn how to phrase questions after listening to engage speaker": "Method",
+          "learn how to make the speaker feel like you listened": "Method"
+        },
+        "learn communication": {
+          "learn what good communication is": "Method",
+          "learn what it takes to have good communication": "Method",
+          "learn how to develop the skills needed to have good communication": "Method",
+          "learn how to prioritize good communication with your partner": "Method"
+        },
+        "learn how to be intimate properly": {
+          "learn how to please orally": "Method",
+          "learn how to please penetratively": "Method",
+          "learn how to please with foreplay": "Method",
+          "learn how to make your partner feel desired sexually": "Method",
+          "learn how to gauge what your partner enjoys sexually": "Method",
+          "learn how to make sex feel interpersonal between your partner": "Method"
+        },
+        "learn how to support others": {
+          "learn how to tell what others need from you": "Method",
+          "learn what it means to support others": "Method",
+          "learn how to support others physically": "Method",
+          "learn how to support others emotionally": "Method",
+          "learn how to support others spiritually": "Method",
+          "learn how to support others financially": "Method",
+          "learn how to support others mentally": "Method"
+        },
+        "learn to be considerate/sacrificial": {
+          "learn that to bring others up it will not bring you down": "Method",
+          "learn how to derive fulfillment from helping others out": "Method"
+        },
+        "learn proper respect": {
+          "learn what proper respect is and why it is important": "Method",
+          "practice respecting everyone and everything just because they are human": "Method",
+          "practice showing reverence for elderly, those who served, parents, and those of a higher power": "Method"
+        },
+        "learn to be open to things and growth": {
+          "learn how to cultivate an open mind": "Method",
+          "learn how to welcome all challenge or deviance as a learning opportunity": "Method"
+        },
+        "learn to be interesting": {
+          "learn what most people find interesting": "Method",
+          "learn how to project what most people find interesting on yourself": "Method",
+          "learn how to be mysterious/enigmatic": "Method"
+        },
+        "learn to avoid conflict": {
+          "learn how to identify the start and stages of conflict": "Method",
+          "learn that winning the conflict may no mean winning in terms of harmony of the relationship" : "Method",
+          "learn conflict deescalation tactics" : "Method",
+          "learn how to identify conflict triggers and how to rectify them" : "Method",
+          "learn how to put the interest of your partner over yourself": "Method"
+        }
+      },
+      "be a strong man": {
+        "be physically strong": {
+          "learn how to improve literaly muscle strength output" : "Method"
+        },
+        "be physically fit": {
+          "learn how to maintain a low, but healthy body fat percentage": "Method",
+          "learn how to properly train cardio to be healthy and push yourself": "Method"
+        },
+        "be physically healthy": {
+          "learn proper nutrition and diet": "Method",
+          "learn how to identify possible concerns or abnormalities on your body and rectify them" : "Method",
+          "learn how to identify and mitigate things that put your body at risk": "Method",
+          "practice always staying active": "Method"
+        },
+        "be physically hardened": {
+          "learn how to increase your range of motion": "Method",
+          "learn how to bulletproof your joints": "Method",
+          "learn how to train auxillary muscles in compound movements for support": "Method",
+          "learn how to do muscle and bone hardening exercises": "Method"
+        },
+        "be emotionally sound": {
+          "learn how to take care of yourself emotionally": "Method",
+          "learn how to vent emotional distress": "Method",
+          "learn how to reward emotional sucecss": "Method",
+          "learn how to retoactively check in on yourself and be introspective on your emotional state": "Method"
+        },
+        "radiate testosterone": {
+          "learn how to naturally boost your testosterone": "Method",
+          "learn how to emulate behaviours of people who seem 'manly'": "Method"
+        },
+        "have traditional male values learned": {
+          "learn what are traditional male values": "Method",
+          "learn how to encorporage traditional male values in your modern life": "Method"
+        },
+        "appreciate femininity as the other half": {
+          "learn what makes women beautiful" : "Method",
+          "learn what role women play in society and why it is essential": "Method"
+        },
+        "be like a father in all things": {
+          "learn the significance of a father in society" : "Method",
+          "learn how to emulate being a father in all actions you take" : "Method"
+        }
+      },
+      "set a good example": {
+        "always live by virtue and honor": {
+          "learn what it means to be virtuous": "Method",
+          "learn what it means to be honorous": "Method",
+          "learn how to apply your daily life to virtue and honor": "Method",
+          "learn how to hold yourself accountable in regard to virtue and honor": "Method",
+          "practice filtering your behaviour through a virtuous and honorable lens": "Method"
+        },
+        "encourage others to live by virtue and honor": {
+          "learn how to lead by example, so that others can emulate your honor and virtue": "Method",
+          "learn how to never waiver in your morals, so that others can know you practice what you preach": "Method",
+          "learn how to guide others to virtue and honor like a shepherd, but not impose your morals": "Method"
+        },
+        "follow great examples myself, emulate, and copy what makes them great and easy to copy their examples": {
+          "breakdown all traits and who to study for each": {
+            "find a great philosophical example and learn from them": "Method",
+            "find a great financial example and learn from them": "Method",
+            "find a great spiritual example and learn from them": "Method",
+            "find a great athletic example and learn from them": "Method",
+            "find a great mindset example and learn from them": "Method",
+            "find a great relational example and learn from them": "Method",
+            "find a great social example and learn from them": "Method",
+            "find a great hobby example and learn from them": "Method"
+          }
+        }
+      },
+      "have a diverse skillset": {
+        "master time so I can do more": {
+          "learn how to get more bang out of your buck when it comes to time usage": "Method",
+          "learn the importance of time as a currency": "Method"
+        },
+        "efficiently learn to practice so I need less to do more": {
+          "learn what it means for practice to be effective": "Method",
+          "learn how to effectively practice": "Method",
+          "learn how to apply your effective practice to whatever you are trying to learn": "Method"
+        },
+        "take care and interest in many things": {
+          "learn how to not do anything without a care": "Method",
+          "learn how to find interest even in the most boring of things": "Method",
+          "learn how to apply your interest in a subject into care and fuel": "Method"
+        },
+        "do not become complacent": {
+          "learn how to not be content with not growing": "Method",
+          "learn how to constantly put yourself outside of your comfort zone": "Method",
+          "learn how to not lower your standards so far you accept less than what you deserve" : "Method"
+        },
+        "create discipline so I can stay consistent": {
+          "learn how to develop a strong willpower": "Method",
+          "learn how to apply your strong willpower to creating strong discipline": "Method",
+          "learn how to apply your strong discipline to having full control over your ruling principle": "Method"
+        }
+      },
+      "be succesful": {
+        "be financially well off": {
+          "learn what the financially successful people do most people don't": "Method",
+          "learn how to accumulate and maintain wealth": "Method"
+        },
+        "have good raport to my name": {
+          "learn how to not do anything that would demean my name": "Method",
+          "learn how to make others associate my name with positive things": "Method"
+        },
+        "have a social circle of successful people": {
+          "learn how to identify the intrinsic 'value' of others": "Method",
+          "learn how to seek out those with high value": "Method",
+          "learn how to avoid those with low value": "Method",
+          "learn how to fit into environments with successful people and take away knowledge": "Method"
+        },
+        "obtain status through work or efforts": {
+          "learn how to take the work that I do to the next level": "Method",
+          "learn how to make the work I do stand out from the rest": "Method",
+          "learn how to find meaninful and impactful work and do that": "Method",
+          "learn how to become an expert in your field": "Method",
+          "learn how to do something revolutionary and dramatically improve the world in your field": "Method"
+        },
+        "exhibit a state of being that is natural, divine, and honorable": {
+          "learn what behaviour of man constitutes natural behaviour": "Methoed",
+          "learn what behaviour of man constitutes divine behaviour": "Method"
+        },
+        "create a family": {
+          "learn how to properly raise kids according to my principles": "Method"
+        },
+        "accomplish my goals": {
+          "learn how to explicitly define my goals": "Method",
+          "learn how to properly pace myself to accomplish my goals": "Method",
+          "learn how to properly link piecemeal progression to accomplish your goals incrementally": "Method"
+        },
+        "set out on travel": {
+          "learn about other countries and how to properly go about traveling to them": "Method",
+          "learn about different cultures and languages": "Method",
+          "learn about geograpyhy": "Method",
+          "practice seeing other places": "Method"
+        },
+        "create a lasting impact (legacy)": {
+          "learn how to build your work in a way so that the final result lasts": "Method",
+          "learn how to keep your name tied to what you do so that it lasts as long as your work does": "Method",
+          "learn how to instill your impact in others so they carry your legacy with them": "Method"
+        },
+        "achieves a state where you incite envy and have things to share without sacrifice": {
+          "learn how to become so well off that others are in awe of you": "Method",
+          "learn how to portionately share what you have with others to give back but not take away from yourself": "Method"
+        }
+      },
+      "empathy": {
+        "be able to put myself in other's shoes": {
+          "be able to toggle this way of thinking": {
+            "learn how to be able to switch from your logical to emotional self": "Method"
+          },
+          "feel their emotions": {
+            "learn how to actually put yourself in other's shoes and understand the emotions they feel": "Method",
+            "learn how to actually feel the emotions of others based off what they are currently feeling": "Method"
+          },
+          "have this experience affect my person and invite a reactionary action accordingly": {
+            "learn how to act accordingly based off the emotions you feel from others": "Method"
+          },
+          "remove the person from their feeling and thoughts and mental state": {
+            "learn how to love and feel a person and their emotions for what they are and separate the person from them": "Method"
+          }
+        },
+        "be kind and considerate": {
+          "learn how to treat others how you want to be treated": "Method"
+        },
+        "gain eq, social cues, others desires, how to converse etc": {
+          "learn how to read the room": "Method",
+          "learn how to read and communicate with body language": "Method",
+          "learn how to properly interact in a one-on-one conversation": "Method",
+          "learn how to properly interact in a group conversation": "Method",
+          "learn the power of tone/inflection/emotion in your speech and other's speech": "Method"
+        }
+      },
+      "future thinking": {
+        "do not tunnel vision on desires": {
+          "learn how to take things slow to make sure you do a thorough job and are on the right path": "Method",
+          "learn how to look at things as a big picture and not focus on one thing": "Method",
+          "learn how to control your emotions and sense of urgency when tasking": "Method",
+          "learn how to control your fear of missing out": "Method"
+        },
+        "plan things for longevity": {
+          "learn how to think about things like a work of art, how can you design it well, and build it well to stand test of time": "Method",
+          "learn how to never do something for it to be quick and dirty, instead of well thought out and implemented": "Method",
+          "learn how to develop the intent to do something and never quit on it until it is finished": "Method"
+        },
+        "do not fixate on past": {
+          "learn the past is an unchanging lesson, the future is not promised, and the now is all that matters": "Method",
+          "learn to not dwell on mistakes made, but acknowledge them, learn from them, then dismiss them": "Method",
+          "learn to not compare your state of being (emotional, wellness etc) with that of your state in the past": "Method"
+        },
+        "think about all possible outcomes and prepare": {
+          "learn how to brainstorm based off of past experiences": "Method",
+          "learn how to brainstorm based off of the environment": "Method",
+          "learn how to meticulously comb through your mind to brainstorm every branch of outcome": "Method",
+          "learn how to meticulously comb through all of your brainstorming to sort outcomes by plausibility": "Method",
+          "learn how to properly prepare for each outcome possible": "Method"
+        }
+      }
     },
     "abide by golden rule": {
-      "empathy&&": {},
-      "be pragmatic about cause and effect": {},
-      "think before acting": {}
+      "be pragmatic about cause and effect": {
+        "learn about the butterfly effect": "Method",
+        "learn how to identify causes/problems based off of the outcome": "Method",
+        "learn how to mitigate potential causes/risks based off of the effect you desire": "Method"
+      },
+      "think before acting": {
+        "learn how to control impulsive behaviour": "Method",
+        "learn how to deliberately decide your action, instead of relying on intuition": "Method",
+        "learn how to measure the implications of your action before you take it": "Method",
+        "learn how to weigh the desired effect of your action with other actions before you take it": "Method"
+      }
     },
     "inspire comfort/trust": {
-      "set stage for others": {},
-      "empathy": {},
-      "do not self-impose desires": {},
-      "maintain raport": {},
-      "be dependable": {},
-      "maintain a sharp appearance": {}
+      "set stage for others": {
+        "learn how to lift others up": "Method",
+        "learn how to make others comfortable or cheerful when they are uncomfortable": "Method",
+        "learn how to promote participation, inclusion, and harmony in others": "Method",
+        "learn how to give others the spotlight": "Method",
+        "learn how to enable others to succeed": "Method",
+        "learn how to inspire others so that they promote comfort and trust in their peers": "Method"
+      },
+      "do not self-impose desires": {
+        "learn how to leave your desires within your own person, and not reveal them to others": "Method",
+        "learn that others have their own desires and may have no interest in yours, leave it at that": "Method",
+        "learn how to have restraint on imposing your desires, no matter how much you desire it": "Method"
+      },
+      "maintain raport": {
+        "learn how to stay in good faith with your acquaintances": "Method",
+        "learn how to stay current with your aquaintances" : "Method"
+      },
+      "be dependable": {
+        "learn how to never drop the ball": "Method",
+        "learn how to be there for everyone all the time": "Method",
+        "learn how to be consistent when it comes to your treatment of others": "Method"
+      },
+      "maintain a sharp appearance": {
+        "learn how to never let the way you portray yourself seem dull or ill": "Method",
+        "learn how to look approachable and be approachable": "Method",
+        "learn how to look and always be self-composed": "Method"
+      }
     }
   },
   "embody Christ": {
     "fruits of the spirit": {
-      "learn love": {},
-      "learn joy": {},
-      "learn peace": {},
-      "learn patience": {},
-      "learn kindness": {},
-      "learn goodness": {},
-      "learn gentleness": {},
-      "learn self-control": {}
+      "learn love": {
+        "learn what proper love towards others is": "Method",
+        "learn how God embodied love towards others": "Method",
+        "learn how to replicate God's love for others": "Method",
+        "practice embodying God's love": "Method"
+      },
+      "learn joy": {
+        "learn what proper joy  is": "Method",
+        "learn how God embodied joy": "Method",
+        "learn how to replicate God's joy": "Method",
+        "practice embodying God's joy": "Method"
+      },
+      "learn peace": {
+        "learn what proper peace is": "Method",
+        "learn how God embodied peace": "Method",
+        "learn how to replicate God's peace": "Method",
+        "practice embodying God's peace": "Method"
+      },
+      "learn patience": {
+        "learn what proper patience is": "Method",
+        "learn how to God embodied patience": "Method",
+        "learn how to replicate God's patience": "Method",
+        "practice embodying God's patience": "Method"
+      },
+      "learn kindness": {
+        "learn what proper kindness towards others is": "Method",
+        "learn how to God embodied kindness towards others": "Method",
+        "learn how to replicate God's kindness for others": "Method",
+        "practice embodying God's kindness": "Method"
+      },
+      "learn goodness": {
+        "learn what proper goodness is": "Method",
+        "learn how to God embodied goodness": "Method",
+        "learn how to replicate God's goodness": "Method",
+        "practice embodying God's goodness": "Method"
+      },
+      "learn gentleness": {
+        "learn what proper gentleness towards others is": "Method",
+        "learn how to God embodied gentleness towards others": "Method",
+        "learn how to replicate God's gentleness for others": "Method",
+        "practice embodying God's gentleness": "Method"
+      },
+      "learn self-control": {
+        "learn what proper self-control is": "Method",
+        "learn how to God embodied self-control": "Method",
+        "learn how to replicate God's self-control": "Method",
+        "practice embodying God's self-control": "Method"
+      }
     },
-    "learn how to embody all the fruits in your behaviour": {},
     "alturism": {
-      "learn I am not above others": {},
-      "accept helping others at the 'cost' of myself is okay": {},
-      "empathy&&": {},
-      "practice being alturistic": {}
+      "learn I am not above others": {
+        "learn to understand the fact that I am nobody, to seperate my perspective bias and value others equally": "Method"
+      },
+      "accept helping others at the 'cost' of myself is okay": {
+        "learn that there is no waste of resources when helping another out": "Method"
+      }
     },
     "contendedness": {
-      "accept what I have is all I need": {},
-      "do not envy, be jealous, or yearn for excess": {},
-      "do not fixate on what was or what could be, but what you have": {}
+      "accept what I have is all I need": {
+        "learn that if I am fed, safe, and well then there is nothing to yearn for": "Method",
+        "learn that some people do not even have the bare essentials, so the fact I have them I should feel blessed": "Method",
+        "learn to be content with the outcome of things even when it does not go the way I desire": "Method"
+      },
+      "do not envy, be jealous, or yearn for excess": {
+        "learn that greed, envy, jealousy and the desire for more will never end": "Method",
+        "learn that having more than you need is selfish and taking from others:": "Method",
+        "learn to not compare your possessions with the possessions of other and your general happiness or outlook on life": "Method"
+      },
+      "do not fixate on what was or what could be, but what you have": {
+        "learn to appreciate what you have in that moment and turn a blind eye to all else": "Method"
+      }
     },
     "alert": {
-      "do not put yourself in states where you cannot be alert": {},
-      "make conscious effort of being present always": {},
-      "give everything your full effort": {}
+      "do not put yourself in states where you cannot be alert": {
+        "learn how to keep your mind straight at all times (consumption)": "Method",
+        "learn to keep yourself well rested so you are fully aware and do not gloss over things": "Method",
+        "learn how to not put yourself in environments where it is challenging to be aware or safe": "Method"
+      },
+      "make conscious effort of being present always": {
+        "learn how to become hyperaware and observant of your surroundings": "Method",
+        "learn how to become mindful in the moment and practice maintaining mindfulness": "Method",
+        "learn to think about here and now and the concrete, giving task at hand your full attention": "Method"
+      }
     },
     "deference": {
-      "respect peers and seniors alike": {},
-      "show respect for things people hold deawr": {},
-      "do not place yourself above others": {},
-      "understand that other people's positions (experience,history,etc) and because it does not match mine, respect them equally": {}
+      "respect peers and seniors alike": {
+        "learn that there is no difference between people, just that some have more experience and wisdom than others": "Method",
+        "learn that everyone, truly everyone deserves your respect without discrimination": "Method"
+      },
+      "show respect for things people hold deawr": {
+        "learn that everyone has something meaningful in their life, and it is not for you to judge what that is": "Method",
+        "learn to appreciate and help others keep hold of what they hold dear": "Method"
+      },
+      "understand that other people's positions (experience,history,etc) and because it does not match mine, respect them equally": {
+        "learn to understand the stance people take and their experiences and acknowledge it and appreciate it and don't demean it": "Method",
+        "learn to appreciate everyones take, and value how they got there":"Method"
+      }
     },
     "trust in the Lord": {
-      "know He provides": {},
-      "know I will/must abide to His will": {},
-      "know I am feearfully and wonderfully made in His image": {},
-      "depend on God completely": {},
-      "believe in God only": {},
-      "hope in God entirely": {},
-      "wait on God patiently": {}
+      "know He provides": {
+        "learn to trust in the Lord to give you everything you need": "Method",
+        "learn to not want and to revel in your daily bread": "Method",
+        "learn that everything you get comes from the Lord as a blessing, and it could be easily taken away": "Method",
+        "learn that everything you have could be taken away": "Method",
+        "learn that you should not be stingy, and give back since it is not yours": "Method"
+      },
+      "know I will/must abide to His will": {
+        "learn that everything that happens has been predetermined and crafted to His will": "Method",
+        "learn that no matter how much I fight against the inevitable, it will happen": "Method",
+        "learn to accept God's plan for me and to abide that he knows what is best for me": "Method"
+      },
+      "know I am fearfully and wonderfully made in His image": {
+        "learn that there is no part of me that is not beautiful": "Method",
+        "learn that there is no part of any other person that is not beautiful": "Method",
+        "learn to appreciate the flaws of people and the beauty in being imperfect and saved by God": "Method"
+      },
+      "depend on God completely": {
+        "learn to get your daily sustenance from God physically, mentally, emotionally, and spiritually": "Method",
+        "learn to not worry about the future but trust that God will provide": "Method",
+        "learn to not overly put pressure on yourself to provide, knowing that God will do that for you": "Method"
+      },
+      "believe in God only": {
+        "learn to not believe and trust in worldly powers": "Method"
+      },
+      "hope in God entirely": {
+        "learn to put your faith and good tidings in the Lord and do not doubt his providence": "Method"
+      },
+      "wait on God patiently": {
+        "learn to not expect anything from God especially on your time": "Method"
+      }
     },
     "be generous": {
-      "empathy&&": {},
-      "do not be stingy of what I 'own' ": {}
+      "do not be stingy of what I 'own' ": {
+        "learn that all you have was given to you, so it should be given again": "Method"
+      }
     },
-    "forgiveness&&": {},
     "punctual": {
-      "respect other's time since it is God's gift to them, not mine to take": {},
-      "make a conscious effort of knowing your obligations and responsibiltiers and accomodating": {},
-      "empathy&&": {}
+      "respect other's time since it is God's gift to them, not mine to take": {
+        "learn to arrive on time since it is not up to you to decide if other people will have their time used waiting on you": "Method",
+        "learn to respect the value of others' time the same that you value of your own": "Method"
+      },
+      "make a conscious effort of knowing your obligations and responsibilties and accomodate": {
+        "learn to always be cognizant of your commitments and make sure your actions reflect them": "Method",
+        "learn to always follow through on your plans": "Method",
+        "learn to help others with accommodating their schedules, as you would like them to do for you too": "Method"
+      }
     },
     "responsible": {
-      "be accountable (for yourself + others)": {},
-      "be dependable": {},
-      "take care of everyone and everything": {},
-      "have control and everything in order": {},
-      "know what is going on and how to see things through to finish": {}
+      "be accountable (for yourself + others)": {
+        "learn to be accountable for all of your thoughts and actions": "Method",
+        "learn how to be accountable for the thoughts and actions for everyone you are responsible for": "Method",
+        "learn how to properly make up for when you drop the ball by being accountable for your deficit": "Method",
+        "learn how to hold your peers accountable for when their honor wanes": "Method"
+      },
+      "take care of everyone and everything": {
+        "learn to never let anyone or anything go neglected": "Method",
+        "learn to make sure that everyone or everything is getting the proper care and attention it needs": "Method"
+      },
+      "have control and everything in order": {
+        "learn how to identify avoid chaotic things that can have disastrous consequences": "Method",
+        "learn how to plan and have foresight on all situation so it goes according to plan": "Method",
+        "learn how to gain power and control of situations when given the opportunity": "Method"
+      },
+      "know what is going on and how to see things through to finish": {
+        "learn how to pay attention to little components of a system and make sure they all see to their completion (bottom-up)": "Method"
+      }
     },
     "sincere": {
-      "be honest": {},
-      "do everything out of love, not self-preservation": {},
-      "empatyh&&": {},
-      "mean everything you do, or don't do it": {}
+      "be honest": {
+        "learn to never tell lies": "Method",
+        "learn to never cheat others for your own benefit": "Method",
+        "learn to speak your mind as it is": "Method",
+        "learn to present your true self": "Method",
+        "learn to do the right thing always": "Method"
+      },
+      "do everything out of love, not self-preservation": {
+        "learn to develop love for others as your motivator instead of love for yourself": "Method",
+        "learn that the wellbeing of others is more important than your own face": "Method"
+      },
+      "mean everything you do, or don't do it": {
+        "learn to never begin things you have intent of half-assing": "Method",
+        "learn to never do anything without your full spirit and power behind it": "Method"
+      }
     },
     "truthful": {
-      "maintain your reputation": {},
-      "empathy&&": {},
-      "learn to not lie and be deceptive": {}
+      "maintain your reputation": {
+        "learn to never do anything that can put your reputation at risk": "Method",
+        "learn to identify what harms and what boosts your reputation and act accordingly": "Method"
+      },
+      "learn to not lie and be deceptive": {
+        "learn to not keep secrets from others": "Method",
+        "learn to never lead others astray": "Method"
+      }
     }
   },
 
   "Be selfless": {
-    "empathy&&": {},
-    "alturism&&": {},
     "comradery": {
-      "recognize all people are like me": {},
-      "recognize everyone has something to bring to the table": {},
-      "recognize everyone has different pasts and mindsets": {},
-      "look out for others": {}
+      "recognize all people are like me": {
+        "learn that everyone is your comrade in the war agains the devil and for God": "Method"
+      },
+      "recognize everyone has something to bring to the table": {
+        "learn that everyone is good at something, so do not think lesser of them if theyy are not good at one particular thing": "Method",
+        "learn to appreciate people's skills and weaknesses": "Method"
+      }
     },
     "not stingy with own resources": {
-      "realize I do not 'own' anything": {},
-      "realize me 'owning' that thing is not more important than others": {},
-      "realize by serving I do not 'lose' anything myself": {}
+      "realize me 'owning' that thing is not more important than others": {
+        "learn that the things that you have are not more important than the things others have, or themselves altogether": "Method"
+      }
     }
   },
   "Be able to provide protection/providence/comfort": {
-    "be a father figure&&": {},
-    "have enough assets&&": {},
-    "have the time, energy, and efforts": {},
+    "have the time, energy, and efforts": {
+      "learn to enable yourself to be able to provide in terms of know-how": "Method",
+      "learn how to enable yourself to be able to provide for others in terms of resources": "Method",
+      "learn the necessary skills to be able to protect others": "Method",
+      "learn the necessary skills to eb able to provide others with comfort and take away their troubles": "Method"
+    },
     "do not overstep your bounds": {
-      "learn to know what your bounds are": {},
-      "learn proper risk assessment and its associated award": {},
-      "defend your bounds from other people": {},
-      "learn to read the room and see if you are overstepping": {}
+      "learn to know what your bounds are": {
+        "learn how to identify the extent of your abilities": "Method",
+        "learn how to identify what the expectations for you are": "Method",
+        "learn how to abide by ability and expectations to stay in your lane": "Method"
+      },
+      "learn proper risk assessment and its associated award": {
+        "learn how to perform risk assessment": "Method",
+        "learn how to apply risk assessment to your everyday life" : "Method",
+        "learn how to sift through yields of risk assessment to choose best option in the situation": "Method"
+      },
+      "defend your bounds from other people": {
+        "learn how to be defensive of what is rightfully yours, and do not let others take that away from you": "Method",
+        "learn how to speak your mind and not be timid as to not let others encroach on your stuff": "Method"
+      },
+      "learn to read the room and see if you are overstepping": {
+        "learn how to evaluate your boundaries based off the communication of others": "Method"
+      }
     },
-    "be strong&&": {},
-    "empathy&&": {},
-    "successful&&": {},
-    "virtuous": {},
-    "be able to predict and prepare for future": {
-      "be exhaustive and act according to all possibilities": {}
-    },
-    "alert&&": {},
     "be constant and unchanging": {
-      "do not be a turbulent, changing personality": {},
-      "be a rock that does not change": {}
+      "do not be a turbulent, changing personality": {
+        "learn how to find a stagnant state of being that is like a rock": "Method",
+        "learn how to acknowledge, process, and dismiss chaos and turbulence so that it can be handled accordingly": "Method",
+        "learn how to find your true self and fully align with that and do not falter for any reason": "Method"
+      }
     },
-    "be considerate&&": {},
     "be gentle": {
-      "learn my limits": {},
-      "learn what others find to be too rough": {},
-      "act out of love": {}
+      "learn my limits": {
+        "learn what others find too soft, and what others find too firm": "Method",
+        "learn how to quantify and gauge my strength so I can tune it to not hurt others": "Method"
+      },
+      "act out of love": {
+        "learn to act with the intention of making the other person feel loved instead of harmed": "Method",
+        "learn to think, if I were the other person and I did this, would I feel loved?": "Method"
+      }
     },
     "do not be scary": {
-      "be constant": {},
-      "do not act out of anger/impulse": {},
-      "empathy&&": {},
-      "trustworthy": {},
-      "have no malintent": {}
+      "do not act out of anger/impulse": {
+        "learn how to control your negative emotions and to not let others see or feel them": "Method",
+        "learn how to acknowledge your negative emotions and dismiss them so they do not provoke reaction": "Method",
+        "learn how to consult your mind first, before listening to your emotions and acting": "Method"
+      },
+      "have no malintent": {
+        "learn to never truly wish ill upon any other, it is never truly deserved, it is not your place, and they will be judged": "Method",
+        "learn to have no enemies--forgive and forget": "Method"
+      }
     }
   },
   "Help those in need or those who are lost": {
     "wisdom to know how to help": {
-      "never stop persuing knowledge or how things work": {},
-      "learn how things work or why things happened": {},
-      "refer to experts, history, models for shortcuts": {},
-      "prioritize puruit of knowledge above all else": {},
-      "be relentless with your practice in solidifying what you learn": {}
+      "never stop persuing knowledge or how things work": {
+        "learn how to keep the fire for learning alive": "Method",
+        "learn how everything works": "Method"
+      },
+      "learn how things work or why things happened": {
+        "learn to never be complacent with 'just because' or 'thats how it is' without understanding why": "Method"
+      },
+      "refer to experts, history, models for shortcuts": {
+        "learn how to ask others for help": "Method",
+        "learn how to consult experts, material, and records for expediting your learning and answers": "Method",
+        "learn how to identify your sources for each area of your life": "Method"
+      },
+      "prioritize pursuit of knowledge above all else": {
+        "learn that while you have the ability to learn and grow, nothing else really matters so act accordingly": "Method"
+      },
+      "be relentless with your practice in solidifying what you learn": {
+        "learn to never be complacent with just knowing things, without also knowing their practice and proficiency": "Method"
+      }
     },
     "ability to help": {
       "teach (learn skill first)": {
-        "learn how people learn and cater curriculum to peer": {},
-        "learn how to speak to convey your message well": {},
-        "genuinely care about the peer's learning and accomodate accordingly": {}
+        "learn how people learn and cater curriculum to peers": {
+          "learn how human psychology and biology play a role in learning": "Method",
+          "learn the different methods people learn": "Method",
+          "learn the art of learning": "Method",
+          "learn how to curate, cater, and practice different teaching methods to help others learn": "Method"
+        },
+        "learn how to speak to convey your message well": {
+          "learn how to be able to articulate your thoughts efficiently" : "Method",
+          "learn how to convey your thoughts into words that are easy and accessible for others to understand": "Method",
+          "learn how to convey your message in a concise and logical format that is digestable and logical": "Method"
+        },
+        "genuinely care about the peer's learning and accomodate accordingly": {
+          "learn that others are like you, and that their learning is just as important as your learning": "Method"
+        }
       },
       "serve others": {
-        "learn how to tell how the person is deficient and fill the hole": {},
-        "learn how to serve without coming across as demeaning": {},
-        "genuinely care about their feelings": {}
+        "learn how to tell how the person is deficient and fill the hole": {
+          "learn how to evaluate people's weaknesses and strengths": "Method",
+          "learn how to tell when a person is struggling or they need extra help": "Method",
+          "learn how to help others in their areas of deficiency": "Method"
+        },
+        "learn how to serve without coming across as demeaning": {
+          "learn how to factor yyour behaviour in a way that does not condescend or make others feel inferior": "Method",
+          "learn to behave in the most helpful manner possible": "Method"
+        }
       },
       "communication with others": {
-        "learn rhetoric": {},
-        "learn social cues": {},
-        "learn logic": {},
-        "learn how to listen": {},
-        "learn charisma": {},
-        "learn how to put others before yourself": {}
-      },
-      "give yourself the position to help (be successful)": {
-        "enable yourself by having resources to give": {}
+        "learn rhetoric": {
+          "learn how to be persuasive": "Method",
+          "learn the aristatilian art of persuasion": "Method"
+        },
+        "learn logic": {
+          "learn the aristatilian art of logic": "Method",
+          "learn how to use logic to derive your mindset and actions": "Method"
+        },
+        "learn how to listen": {
+          "learn how to suppress your desire to speak in order to listen": "Method",
+          "learn how to properly take in what others say, instead of just waiting your turn to speak": "Method"
+        },
+        "learn how to put others before yourself": {
+          "learn that taking care of others is more important than taking care of yourself": "Method"
+        }
       }
     }
   },
   "Be manly": {
     "meticulous": {
-      "take note of everything": {},
-      "compare and contrast implications of everything": {},
-      "leave no stone unturned": {},
-      "make best action after intense and intentful deliberation": {}
+      "take note of everything": {
+        "learn to keep your eyes peeled, and take mental note of everything you see": "Method",
+        "learn how to record the data you take in everyday so that it can be processed or recalled later": "Method"
+      },
+      "compare and contrast implications of everything": {
+        "learn how to evaluate the implications each and every action has and how to process that": "Method"
+      },
+      "leave no stone unturned": {
+        "learn to never accept something being unnoticed or unanalyzed": "Method"
+      },
+      "make best action after intense and intentful deliberation": {
+        "learn how to follow through with your actions after deciding what action to go through":"Method"
+      }
     },
     "stoic": {
-      "be constant with your physical expression": {},
-      "do not succumb to pain or pleasures": {},
-      "do not treat others with difference": {},
-      "face life and death objectively": {},
-      "live your live in accordance to nature, divine, and virtue": {}
+      "be constant with your physical expression": {
+        "learn to never look or act surprised, since all things that happen on Earth are natural": "Method",
+        "learn how to filter your reaction on your environment through your head and how to process it without reacting": "Method"
+      },
+      "do not succumb to pain or pleasures": {
+        "learn how to control your body and be indifferent to whether or not you are under plain or pleasure": "Method",
+        "learn how to not let the hedonistic life control you or influence your decisions or actions": "Method",
+        "learn how to not let the fear of pain control you or influence your decisions or actions": "Method"
+      },
+      "do not treat others with difference": {
+        "learn that the value of everyone is equal, and therefore their treatment should be equal": "Method",
+        "practice not treating one person more or less than another": "Method"
+      },
+      "face life and death objectively": {
+        "learn to not fear death": "Method",
+        "learn to not avoid affirmative action just because you are holding onto your own life": "Method",
+        "learn how to value the life of others over that of yourself": "Method"
+      },
+      "live your live in accordance to nature, divine, and virtue": {
+        "learn to never do anything unnatural to Earth's order": "Method",
+        "learn to never do anything unnatural in term of human nature": "Method",
+        "learn to act in accordance to God, the universe, and perfect human divine order": "Method"
+      }
     },
     "strong of will": {
-      "figure what is the truth you should pursue": {},
-      "do not falter from the pursuit of truth": {}
+      "figure what is the truth you should pursue": {
+        "learn how to decide what the truth is and what false data is": "Method",
+        "learn how to properly pursue the truth and avoid false data": "Method"
+      },
+      "do not falter from the pursuit of truth": {
+        "learn to not let others, or anything ever dissuade you from persuing true truth": "Method"
+      }
     },
     "discipline": {
-      "hold yourself accountable to the pursuit of truth": {},
-      "repent from diverting from the pursuit of truth": {}
+      "hold yourself accountable to the pursuit of truth": {
+        "learn that the only thing preventing you from pursuing truth is yourself so act accordingly": "Method"
+      },
+      "repent from diverting from the pursuit of truth": {
+        "learn that when you do not pursue truth, you must make ammends and get back on track": "Method" 
+      }
     },
     "high testosterone": {
-      "exercise": {},
-      "eat healthy": {},
-      "omit modern technology": {},
-      "sleep": {},
-      "embody a good state of mind": {},
-      "get time in the sun daily": {}
+      "omit modern technology": {
+        "learn to avoid unresearched, modern technology, especially if it contradicts traditionalism": "Method",
+        "leawrn to avoid unnecesary modernization, just because others do it": "Method"
+      },
+      "sleep": {
+        "learn how sleep works and plays a role in human biology": "Method",
+        "learn how to determine how much sleep you need and plan accordingly": "Method",
+        "learn how to create and maintain a sleep schedule to make you you always get what you need": "Method",
+        "learn how to prioritize your own sleep and the sleep of others": "Method",
+        "learn how to make your own sleep more efficient": "Method"
+      },
+      "embody a good state of mind": {
+        "learn to never linger in a bad state of mind, where you cannot produce good things": "Method",
+        "learn how to cleanse your mind and get into a good place when you are in a rut": "Method"
+      },
+      "get time in the sun daily": {
+        "learn to prioritize getting sun time everyday": "Method"
+      }
     },
     "strong in faith": {
-      "embody Christ&&": {},
-      "pursue improvement actively, devote yourself to being a follower of christ": {},
-      "go out and make disciples": {}
+      "pursue improvement actively, devote yourself to being a follower of christ": {
+        "learn how to make time for God everyday": "Method",
+        "learn how to study the Lord properly and make sure to routinely do it": "Method"
+      },
+      "go out and make disciples": {
+        "learn how to remove the stigma of talking about the Lord with others": "Method",
+        "learn how to learn how to be friendly and care about the salvation of others": "Method",
+        "learn how to become persuasive when it comes to other's salvation": "Method",
+        "practice discussing, conversing, and saving others": "Method"
+      }
     },
     "reach physical strength limits": {
-      "keep training with consistency": {},
+      "keep training with consistency": {
+        "learn to never miss a training session, ever": "Method"
+      },
       "diversify your training": {
-        "athletic training": {},
-        "explosiveness training": {},
-        "endurance training": {},
-        "mass-focused training": {},
-        "bodily function focused training": {},
-        "body reinforcement training": {},
-        "strength training": {},
-        "aesthetic focused training": {},
-        "emphasize your mechanics": {},
-        "learn how to diversify": {},
-        "optimize and schedule your training": {}
+        "athletic training": {
+          "learn how to and practice training for the intent of performance": "Method"
+        },
+        "explosiveness training": {
+          "learn how to and practice training for the intent of being fast and reactive": "Method"
+        },
+        "endurance training": {
+          "learn how to and practice training for the intent of having stamina": "Method"
+        },
+        "mass-focused training": {
+          "learn how to and practice training for the intent of gaining muscle": "Method"
+        },
+        "bodily function focused training": {
+          "learn how to and practice training for the intent of getting the most out of all of your body parts": "Method"
+        },
+        "body reinforcement training": {
+          "learn how to and practice training for the intent of strengthening your muscles and joints to fortify your body": "Method"
+        },
+        "strength training": {
+          "learn how to and practice training for the intent of increasing the strength output of your body": "Method"
+        },
+        "aesthetic focused training": {
+          "learn how to and practice training for the intent of looking beautiful": "Method"
+        },
+        "emphasize your mechanics": {
+          "learn how to and practice training with the intent of align with natural movement mechanics to strengthen auxillary function": "Method"
+        },
+        "learn how to diversify": {
+          "learn how to diversify your training to encorporate every category": "Method"
+        }
       },
       "do physical feats that stress and shock the body regularly": {
-        "think about goals you want to accomplish, then schedule them": {},
-        "do not chicken out and expand the difficulty": {}
+        "think about goals you want to accomplish, then schedule them": {
+          "learn to identify what feats you want to accomplish": "Method",
+          "learn how to plan, follow through, and be realistic about feats you want to do, and do it regularly": "Method"
+        },
+        "do not chicken out and expand the difficulty": {
+          "learn how to not be afraid and let fear control your actions": "Method",
+          "learn how to steadily increase the challenge of tasks to push yourself further and further": "Method"
+        }
       },
       "eat well": {
-        "maintain macro-rich diet": {},
-        "learn nutrition": {},
-        "be aware of your own consumption": {},
-        "learn variation in diet": {},
-        "learn about/encorporate intermittent fasting": {}
+        "maintain macro-rich diet": {
+          "learn how to make sure you get all of the macros your body needs on a daily basis": "Method"
+        },
+        "learn nutrition": {
+          "learn how food works": "Method",
+          "learn how the body deals with food": "Method",
+          "learn how to optimize food for your own benefit": "Method"
+        },
+        "be aware of your own consumption": {
+          "learn how to track and plan your own consumption of food": "Method"
+        },
+        "learn variation in diet": {
+          "learn alternative recipes and foods you can eat to still meet your macro needs": "Method"
+        },
+        "learn about/encorporate intermittent fasting": {
+          "learn about intermittent fasting and its benefits": "Method",
+          "learn how intermittent fasting works and how it can be applied to me": "Method",
+          "learn how to balance intermittent fasting and my dietary goals": "Method"
+        }
       },
       "take good care of body": {
-        "be strong of heart, soul, mind": {},
-        "see to your own needs": {},
-        "do not irreversibly stress your body": {},
-        "do not partake in things that poison the body": {},
-        "do not let others abuse your body": {}
+        "be strong of heart, soul, mind": {
+          "learn what a strong heart looks like and how to embody it": "Method",
+          "learn what a strong soul looks like and how to embody it": "Method",
+          "learn what a strong mind looks like and how to embody it": "Method"
+        },
+        "see to your own needs": {
+          "learn how to identify what your body needs to thrive": "Method",
+          "learn how to prioritize your own needs above lesser things": "Method"
+        },
+        "do not irreversibly stress your body": {
+          "learn what the non-elastic limits of your body are": "Method",
+          "learn to never surpass non-elastic limits and cause permanaent damage to your body": "Method"
+        },
+        "do not partake in things that poison the body": {
+          "learn to not partake in recreational drugs or alcohol": "Method",
+          "learn to not depend on prescription drugs when possible": "Method",
+          "learn to not subject your body to avoidable harsh environments": "Method"
+        },
+        "do not let others abuse your body": {
+          "learn to stand your ground in terms of how people can interface with your body so they do not take advantage or cause harm": "Method",
+          "learn to not let others use your body for their own gain if it causes harm": "Method"
+        }
       },
       "stay mentally sharp": {
-        "problem solve regularly": {},
-        "work on new things regularly": {},
-        "learn new things regularly": {},
-        "socialize regularly": {},
-        "do something creative regularly": {},
-        "do something that stresses your memory capabilities regularly": {},
-        "journal/pray regularly": {},
-        "reflect on yourself for improvement regularly": {},
-        "speak out when your mind is ill": {}
+        "problem solve regularly": {
+          "learn to keep your life full of problems, and practice and keep solving them regularly": "Method"
+        },
+        "work on new things regularly": {
+          "learn to and try new things daily": "Method"
+        },
+        "socialize regularly": {
+          "learn how to make a conscious effort to socialize regularly": "Method",
+          "practice socializing daily": "Method"
+        },
+        "do something creative regularly": {
+          "learn how to stress the creative part of your brain and create original work and do it regularly": "Method"
+        },
+        "do something that stresses your memory capabilities regularly": {
+          "learn how to stress your short working memory and do it regularly": "Method",
+          "learn how to stress your long term working memory and remember your memories, and do it regularly": "Method"
+        },
+        "journal/pray regularly": {
+          "learn how to journal properly and consistently": "Method",
+          "learn how to pray properly and consistently": "Method"
+        },
+        "reflect on yourself for improvement regularly": {
+          "learn how to be introspective": "Method",
+          "learn how to be critical of self": "Method",
+          "learn how to identify shortcomings in your life and plan for their improvement": "Method",
+          "learn to make a conscious effort of focused self-improvement regularly": "Method"
+        },
+        "speak out when your mind is ill": {
+          "learn how to be okay with having emotions": "Method",
+          "learn how to be emotionally expressive":"Method",
+          "learn how to be able to communicate with others about your emotions": "Method",
+          "learn how to speak up to others when your mind is ill": "Method"
+        }
       }
     }
   },
   "Accomplish something great (put in all, create a legacy)": {
     "become really good/knowledgable about something": {
-      "learn how to learn": {},
-      "learn how to practice": {},
-      "learn how to prioritize": {},
-      "learn how to time-manage": {},
-      "learn how to maintain motivation/devotion": {},
-      "make your mission your whole life: eat, sleep, breathe it": {},
-      "learn how to retain information": {},
-      "learn how to be self-critical and improve": {},
-      "learn how to take your skills to the next level": {}
+      "learn how to learn": {
+        "learn how the brain processes information": "Method",
+        "learn how to learn more effectively": "Method"
+      },
+      "learn how to practice": {
+        "learn how to do intended, good practice properly": "Method",
+        "learn how to avoid bad practice pitfalls": "Method"
+      },
+      "learn how to prioritize": {
+        "learn how to identify which tasks deserve priority and how to hierarche them": "Method"
+      },
+      "learn how to time-manage": {
+        "learn how to allocate your time to accomplish your goals the most efficiently": "Method",
+        "learn how to properly meet all your needs and desires with your time allocations": "Method"
+      },
+      "learn how to maintain motivation/devotion": {
+        "learn how to not become dependent on motivation to produce action": "Method",
+        "learn how to find motivation within external sources other than directly": "Method",
+        "learn how to motivate yourself and stay devoted to your craft": "Method"
+      },
+      "make your mission your whole life: eat, sleep, breathe it": {
+        "learn how to find true passion in something and put your whole soul into it": "Method",
+        "learn how to cut off all disctractions and get to the grind if necessary": "Method"
+      },
+      "learn how to retain information": {
+        "learn how to study things you learn so they can be recalled": "Method",
+        "learn how to properly take notes, and store information so it can be accessed": "Method",
+        "learn how to enable yourself to remember things more effectively": "Method"
+      },
+      "learn how to take your skills to the next level": {
+        "learn how to identify what your shortcomings are so that they can be expounded upon": "Method",
+        "learn how to identify what needs to be done to overcome your shortcomings": "Method",
+        "learn how to actively work on your shortcomings and analyze their effectiveness and refine the work": "Method",
+        "learn how to incentively reward yourself for good performance on remediating shortcomings": "Method"
+      }
     },
     "have the drive to pursue something": {
-      "find why you care about something and pile your wood on top of that": {},
-      "learn how to push yourself even further": {},
-      "see the future and yield of your efforts and use this as fuel": {},
-      "think about weight on shoulders and the responsibility for greatness resting on it": [],
-      "think about how you want to do it all the way for the respect on your name": {},
-      "think about how it is your journey, not others, so you must finish it": {}
+      "find why you care about something and pile your wood on top of that": {
+        "learn the mechanics and reasoning of why and how the brain assigns values to things": "Method",
+        "learn how to utilize the value you place on things to allow you to concentrate your efforts": "Method"
+      },
+      "learn how to push yourself even further": {
+        "learn how to not be content with 'good enough'": "Method"
+      },
+      "see the future and yield of your efforts and use this as fuel": {
+        "learn how to see the outcome of each level of effort you put in, and align your actions with the outcome you desire": "Method"
+      },
+      "think about weight on shoulders and the responsibility for greatness resting on it": {
+        "learn to value the weight your previous ancestors have on you and the expectation to surpass them": "Method",
+        "learn to put the expectation from yourself to provide for yourself, others, and your future generations": "Method"
+      },
+      "think about how you want to do it all the way for the respect on your name": {
+        "learn what it means to associate your name with quality, and how to follow through with it": "Method"
+      },
+      "think about how it is your journey, not others, so you must finish it": {
+        "learn what it means to begin something and that YOU must be the one to finish it if you start it": "Method"
+      }
     },
     "find something meaningul, impactful, and somethign you are truly passionate about": {
-      "learn how to comb through data efficiently": {},
-      "learn what you are good at": {},
-      "learn how to cater to your strengths and weaknesses": {},
-      "learn to apply your abilities to your appropriate niche": {},
-      "learn how to properly grind and apply yourself": {}
+      "learn how to comb through data efficiently": {
+        "learn how to properly research things": "Method",
+        "learn how to ingest large amounts of data": "Method",
+        "learn how to digest large amounts of data and extract only pertinent things": "Method"
+      },
+      "learn what you are good at": {
+        "learn how to be realistic when self evaluating your strengths and weaknesses": "Method",
+        "learn to constantly analyze your skill level on everything in your repetoire": "Method",
+        "learn how to stick to your strengths, avoid your pitfalls, and constantly work on the rest": "Method"
+      },
+      "learn to apply your abilities to your appropriate niche": {
+        "learn how to find unique subsets of tasks that allow you to utilize your skills and have an impact in the niche": "Method",
+        "learn how to be opportunistic when it comes to utilizing your hobbies": "Method"
+      }
     },
     "sacrifice/see your goal to completion": {
-      "know how much/what you can give to make progress/accomplish your goal": {},
-      "plan out stages and progression": {},
-      "finish what you start": {},
-      "be retroactive and retrospective at every stage in the process": {},
-      "give it your all": {}
+      "know how much/what you can give to make progress/accomplish your goal": {
+        "learn your capabilities and how much/what you are able to give of yourself": "Method"
+      },
+      "plan out stages and progression": {
+        "learn how to plan out the progression of your goal and what it will look like over time": "Method"
+      },
+      "be retroactive and retrospective at every stage in the process": {
+        "learn to look at your progress at every stage during your goal so that you can be more effective": "Method"
+      }
     },
     "make your future better": {
-      "be future focused": {},
-      "have empathy&&": {},
-      "have systematic thinking": {},
-      "make effort timeless and age-proof": {}
+      "be future focused": {
+        "learn how to keep your head up and focused on toil for a better future": "Method",
+        "learn how to not lose sight of what will be and how to look at the big picture": "Method"
+      },
+      "have systematic thinking": {
+        "learn how to think of concepts and ideas as of a complex system an their inner workings": "Method",
+        "learn how to split up a concept into their smallest components so they can be digested": "Method"
+      },
+      "make effort timeless and age-proof": {
+        "learn that true effort does not wane with time, and will stand its ground forever": "Method"
+      }
     },
     "have your name tied to your legacy": {
-      "make your efforts known (not for fame)": {},
-      "make sure what you did was great enough to be associated to you and you alone": {}
+      "make your efforts known (not for fame)": {
+        "learn how to stand out and make sure what you do is associated with you": "Method",
+        "learn how to make only the good things you do stick with others on their impression of you": "Method"
+      }
     }
   },
 
