@@ -1389,16 +1389,61 @@
         "learn basic food preparation skills (dicing, peeling, etc...)": "Method",
         "learn how to master the application of heat to food": "Method"
       },
-      "learn how to home improve": {},
-      "learn survival skills": {},
-      "learn caretaking": {},
-      "learn basic hygiene": {},
-      "learn how to properly clean": {},
-      "learn how to bake": {},
-      "learn how to sew/crochet/modify fabric": {},
-      "learn how to take care of your clothes": {},
-      "learn how to + actively budget": {},
-      "learn how to grow plants": {}
+      "learn how to home improve": {
+      	"learn what a good home needs to thrive": "Method",
+	"learn basic home improvement skills like carpentry, handiwork, welding etc...":"Method",
+	"learn how to have awareness of your home's state so that you can always stay on top of it":"Method"
+      },
+      "learn survival skills": {
+     	"learn the basics of human life and what it needs to survive":"Method",
+	"learn how to live and improve your life without the necessity of others":"Method",
+	"learn basic survival skills like creating a fire, shelter, getting food and water etc...":"Method",
+	"learn how to survive in any climate or any situation and be prepared":"Method"
+      },
+      "learn caretaking": {
+      	"learn what the needs of others are and how you can meet them":"Method",
+	"learn how to properly interact with others to be kind and loving so you can be an effective caretaker":"Method",
+	"learn how to provide for others and go out of your way to make them feel loved":"Method"
+      },
+      "learn basic hygiene": {
+      	"learn how to identify which aesthetics suit yourself the most":"Method",
+	"learn how to make yourself look attractive at all times":"Method",
+	"learn how to maintain your appearance over time":"Method",
+	"learn how to maintain your body to keep function over time without diminishing it":"Method"
+      },
+      "learn how to properly clean": {
+      	"learn what clean means":"Method",
+	"learn what products are used to clean what":"Method,
+	"learn proper cleaning methods for each associated things":"Method",
+	"learn proper cleaning technique":"Method"
+      },
+      "learn how to bake": {
+      	"learn the fundamentals of baking and how it works":"Method",
+	"learn how to utilize all of the baking utensils to accomplish baking goals":"Method",
+	"
+      },
+      "learn how to sew/crochet/modify fabric": {
+      	"learn the use and implication of being able to manupulate fabric":"Method",
+	"learn how to sew":"Method",
+	"learn how to crochet":"Method",
+	"learn how to fix up clothes":"Method",
+	"
+      },
+      "learn how to take care of your clothes": {
+      	"learn how to properly wash your clothes":"Method",
+	"learn how to properly maintain your clothes over time for them to last":"Method
+      },
+      "learn how to + actively budget": {
+      	"learn the importance of budgeting":"Method",
+	"learn how to properly budget to reach financial goals:":"Method",
+	"learn how to encorporate budgeting into your routine":"Method",
+      },
+      "learn how to grow plants": {
+      	"learn what plants need to grow and thrive":"Method",
+	"learn how to stay on top of your plants care":"Method",
+	"learn how to create a plant environment where they do well then average":"Method",
+	"learn how to grow for a nice yield and for beauty":"Method"
+      }
     },
     "learn how to provide": {
       "fill gaps others have": {},
