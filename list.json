@@ -1281,48 +1281,114 @@
   },
 
   "Fuel desire for knowledge and wisdom forver": {
-    "truly want to know everything": {},
-    "truly love learning": {},
-    "force yourself to learn": {},
-    "give yourself milestones/checks for motivation of learning": {
-      "plan out important markers of learning": {},
-      "monument each marker with a positive feedback loop": {}
+    "truly want to know everything": {
+      "learn how to value knowledge above everything else": "Method"
     },
-    "stay on path entire life and do not deviate": {}
+    "truly love learning": {
+      "learn how to find enjoyment in the art of learning and its benefits in your life": "Method"
+    },
+    "force yourself to learn": {
+      "learn to never be complacent with what you knokw, to always yearn for more": "Method"
+    },
+    "give yourself milestones/checks for motivation of learning": {
+      "plan out important markers of learning": {
+        "learn how to gauge the stages of progression on your learning and mark them so they can be celebrated and analayzed later": "Method",
+        "learn how to properly plan around your learning milestones in order to further boost their effectiveness and their impact": "Methods"
+      },
+      "monument each marker with a positive feedback loop": {
+        "learn how to properly reward yourself on eachstage in your learning progress map": "Method"
+      }
+    },
+    "stay on path entire life and do not deviate": {
+      "learn to stay true to the pursuit of knowledge, and to never stray from it": "Method"
+    }
   },
   "Be prepared for everything": {
     "be ready": {
-      "alert and responsive at all times": {}
+      "alert and responsive at all times": {
+        "learn how to always be prepared and ready for everything all the time, and be observant of it": "Method"
+      }
     }
   },
   "Become emotionally and socially aware and intelligent": {
-    "learn what high EQ/awareness looks like and emulate it": {},
-    "learn how to obtain emotional/socially aware state": {},
-    "learn how to practice being emotionally and socially aware": {},
-    "learn how to save face and make a good impression always": {}
+    "learn what high EQ/awareness looks like and emulate it": {
+      "learn how to analyze those with high EQ and social awareness so that you can emulate their behaviour": "Method",
+      "learn what proper high EQ and social awareness looks like": "Method"
+    },
+    "learn how to obtain emotional/socially aware state": {
+      "learn how to be able to toggle your emotional side if the situation calls for it": "Method"
+    },
+    "learn how to practice being emotionally and socially aware": {
+      "learn how to deviate from your normal behaviour to accomodate emotions and social awareness": "Method"
+    },
+    "learn how to save face and make a good impression always": {
+      "learn how to properly make impressions on others at all stages in your interactions with them": "Method",
+      "learn how to never tarnish others view of yourself, and to avoid the tarnishing by saving face": "Method"
+    }
   },
   "Be a man of virtue": {
     "follow the natural order": {
-      "learn and practice how to be akin to an earth dweller": {},
-      "learn and practice how to be akin to a human": {},
-      "learn and practice how to be akin to a man": {},
-      "learn and practice how to be akin to your role in society": {},
-      "learn and practice how to be in akin to your divine nature": {}
+      "learn and practice how to be akin to an earth dweller": {
+        "learn the fundamental laws of nature and how we also fit that bill": "Method",
+        "learn how to disregard non-Earthly behaviour": "Method"
+      },
+      "learn and practice how to be akin to a human": {
+        "learn the fundamental laws of human nature and how society is based around this": "Method",
+        "learn how to disregard unnatural human behaviour": "Method"
+      },
+      "learn and practice how to be akin to a man": {
+        "learn the fundamental laws of male species of animals" :" Method",
+        "learn the traditional and expected behaviour of men in society": "Method",
+        "learn how to embody a traditinal male and disregard all else": "Method"
+      },
+      "learn and practice how to be akin to your role in society": {
+        "learn the fundamental ways people live in when socially grouped": "Method",
+        "learn the fundamental ways people live in society in the modern times": "Method",
+        "learn how to embody positive historic/modern society roles and reject negative historyic/modern negative society roles": "Method"
+      },
+      "learn and practice how to be in akin to your divine nature": {
+        "learn what it takes to be a divine entity": "Method",
+        "learn how to aspire and model divine entity (God) to be our behavioural goal": "Method",
+        "learn how to take daily measurements of this aspiration of being like God": "method"
+      }
     },
     "always do what is right": {
-      "learn what is right and what is wrong and how to peroperly assess it": {},
-      "have discipline and stick to what's right despite pitfalls": {},
-      "do not expect anything in return for your actions": {}
+      "learn what is right and what is wrong and how to properly assess it": {
+        "learn how to discern between things that are right or encouragable or wrong and discourageable": "Method"
+      },
+      "have discipline and stick to what's right despite pitfalls": {
+        "learn to stick with what is right once identified, and not falter to whats wrong, no matter what": "Method"
+      },
+      "do not expect anything in return for your actions": {
+        "learn that living the high road with what is right yields no reward, but must be done regardless": "Method"
+      }
     },
     "keep your promises": {
-      "have pride in your word and what it stands for": {},
-      "give out your word rarely, always withy full intent": {},
-      "if you transgress your promise, repent and make up for it": {}
+      "have pride in your word and what it stands for": {
+        "learn to not give your word for things that are not of equal value or demanding of it": "Method",
+        "learn to value your word above all else and make sure it stays that way": "Method"
+      },
+      "give out your word rarely, always withy full intent": {
+        "learn to never give your word to things you do not intend on fulfilling": "Method",
+        "learn treat your word as a one of your most valuable currencies": "Method"
+      },
+      "if you transgress your promise, repent and make up for it": {
+        "learn to hold yourself accountable for not fulfilling your promises, and make ammends no matter what": "Method"
+      }
     }
   },
   "Become self-sufficient and  sustaining": {
     "learn basic lifeskills": {
-      "learn how to cook": {},
+      "learn how to cook": {
+        "learn the basics of food and how cooking and preparation alters it": "Method",
+        "learn the different cooking methods and how it alters foods": "Methods",
+        "learn how mixing ingredients and how it changes chemistry and food functionality": "Method",
+        "learn a recipe or food genre type to master": "Method",
+        "learn how to be versatile with your cooking and explore other genres and know how to adjust": "Method",
+        "learn how to be intuitive and feel out recipes and cooking without recipes and make the food taste how you envision": "Method",
+        "learn basic food preparation skills (dicing, peeling, etc...)": "Method",
+        "learn how to master the application of heat to food": "Method"
+      },
       "learn how to home improve": {},
       "learn survival skills": {},
       "learn caretaking": {},
