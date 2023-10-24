@@ -1446,24 +1446,71 @@
       }
     },
     "learn how to provide": {
-      "fill gaps others have": {},
-      "be so well off that you can give others without loss": {}
+      "fill gaps others have": {
+      	"learn how to identify the weaknesses others have and how you are able to fill them and complement them":"Method",
+      	"learn how to be synergistic and maintain harmony with others":"Method"
+      }
     },
     "be independent": {
-      "learn what it takes to be able to do something without assistance": {},
-      "learn whtat it takes to be able to learn how to get to the point of no assistance": {},
-      "learn how to wheen off during your journey to maximize progress and how to not need assistance": {}
+      "learn what it takes to be able to do something without assistance": {
+      	"learn what true indepenendence is":"Method",
+	"learn how to make yourself truly independent":"Method"
+      },
+      "learn whtat it takes to be able to learn how to get to the point of no assistance": {
+      	"learn how to enable yourself to be able to be independent in reaching goals:":Method"
+      },
+      "learn how to wheen off during your journey to maximize progress and how to not need assistance": {
+      	"learn how to be okay with being dependent on others and how you can work with them to not later on":"MEthod",
+	"learn how to hold yourself accountable for growth and being independent":"Method"
+      }
     }
   },
   "Become well respected and known by all": {
     "be charismatic": {
-        "learn rhetoric (pathos/logos/ethos)": {},
-        "learn how to be aesthetic (visually)": {},
-        "learn how to be current with trends": {},
-        "learn how to be friendly": {},
-        "learn persuasion": {},
-        "learn how to public speak": {},
-        "learn how to inspire interest (enigmatism)": {},
+        "learn rhetoric (pathos/logos/ethos)": {
+	  "learn what true pathos is and how it works":"Method",
+	  "learn what true logos is and how it works":"Method",
+	  "learn what true ethos is and how it works":"Method",
+	  "learn and study classical rhetoric":"Method",
+	  "learn and study modern rhetoric":"Method"
+	},
+        "learn how to be aesthetic (visually)": {
+	  "learn how to dress":"Method",
+	  "learn how to accessorize":"Method",
+	  "learn basic fashion":"Method",
+	  "learn how to show off personal features":"Method",
+	  "look how to be pleasing to look at when speaking":"Method"
+	},
+        "learn how to be current with trends": {
+	  "learn how to stay current with the news":"Method",
+	  "learn how to stay current with societal trends":"Method"
+	},
+        "learn how to be friendly": {
+	  "learn how to appear approachable":"Method",
+	  "learn how to be courteous":"Method",
+	  "learn how to properly greet people":"Method",
+	  "learn how to make good impressions":"Method"
+	},
+        "learn persuasion": {
+	  "learn how the brain is persuaded":"Method",
+	  "learn how to convey your points to others without making them feel imposed on":"Method",
+	  "learn how to formulate your points in a convincing, logical manner":"Method"
+	},
+        "learn how to public speak": {
+	  "learn how to conquer fear of public speaking":"Method",
+	  "learn how to control nerves when public speaking":"Method",
+	  "learn how to address a crowd when public speaking":"Method",
+	  "learn how to express focus on certain individuals when public speaking":"Method",
+	  "learn how to be clear, concise, with inflection when public speaking":"Method",
+	  "learn how to create an effective verbal agenda when public speaking":"Method",
+	  "learn how to be fluid in your agenda when public speaking":"Method"
+	},
+        "learn how to inspire interest (enigmatism)": {
+	  "learn how to not reveal too much of yourself to others all of the time":"Method",
+	  "learn how to play with the other's desire to learn more about you":"Method",
+	  "learn what makes an interesting person":"Method",
+	  "learn how to become an interesting person":"Method"
+	},
         "learn how to have confidence": {},
         "learn how to invoke feelings in others": {},
         "learn how to be agreeable": {},
