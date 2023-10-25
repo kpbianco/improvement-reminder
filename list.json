@@ -1489,7 +1489,8 @@
 	  "learn how to appear approachable":"Method",
 	  "learn how to be courteous":"Method",
 	  "learn how to properly greet people":"Method",
-	  "learn how to make good impressions":"Method"
+	  "learn how to make good impressions":"Method",
+	  "learn to not swear":"Method"
 	},
         "learn persuasion": {
 	  "learn how the brain is persuaded":"Method",
@@ -1511,17 +1512,47 @@
 	  "learn what makes an interesting person":"Method",
 	  "learn how to become an interesting person":"Method"
 	},
-        "learn how to have confidence": {},
-        "learn how to invoke feelings in others": {},
-        "learn how to be agreeable": {},
-        "learn how to be funny/witty": {},
-        "learn to be composed at all times": {}
+        "learn how to have confidence": {
+	  "learn what makes a confident person":"Method",
+	  "learn what your confidence shortcomings are and correct them":"Method",
+	  "learn that nobody cares and even if they did it has no effect on your life":"Method",
+	  "learn to own your stuff":"Method"
+	},
+        "learn how to invoke feelings in others": {i
+	  "learn what certain media/entertainment has that invokes a reaction among the viewers":"Method",
+	  "learn how to emulate how entertainment invokes reaction into your own behaviour":"Method"
+	},
+        "learn how to be agreeable": {
+	  "learn to not argue with others":"Method",
+	  "learn how to find common ground with others":"Method",
+	  "learn how to be someone everyone else can get along with and respect":"Method",
+	  "learn to never be unreasonable":"Method"
+	},
+        "learn how to be funny/witty": {
+	  "learn what makes stand up comedians/jesters funny":"Method",
+	  "learn how to be quick-thinking and apply that to quips from others":"Method",
+	  "learn how to set stage, properly set up jokes, and execute":"Method"
+	},
+        "learn to be composed at all times": {
+	  "learn to always have your things together and have a rough plan":"Method",
+	  "learn to always appear like you are in control":"Method"
+	 }
     },
     "know you are with whom you associate": {},
     "do not slander your own name/self-respect": {
-        "know your own worth and do not tolerate less": {},
-        "have divine/natural expectations of your own being and do not align with other paradigms": {},
-        "hold yourself accountable to your own goals/expectations": {}
+        "know your own worth and do not tolerate less": {
+	  "learn what the value of your own self-worth is and how to increase it":"Method",
+	  "learn how to gauge what the value of other's self worth is":"Method",
+	  "learn how to confront others, or not tolerate when others don't match your own worth":"Method"
+	},
+        "have divine/natural expectations of your own being and do not align with other paradigms": {
+	  "learn that living in the likeness of God and of a non-sinning nature is precedent over all other walks of life":"Method",
+	},
+        "hold yourself accountable to your own goals/expectations": {
+	  "learn that everything that happens in your life is in your control":"Method",
+	  "learn that the fact you either meet, or fall short of your goals is entirely your responsibility":"Method",
+	  "learn to take full ownership of your mistakes and of your accomplishments":"Method"
+	}
     }
   },
   "Carry my name with pride and instill that within others": {
