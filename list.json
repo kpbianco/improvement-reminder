@@ -1556,45 +1556,89 @@
     }
   },
   "Carry my name with pride and instill that within others": {
-    "care about your own bloodline and what happens to it": {},
-    "align with the divine and be proud of that": {}
+    "care about your own bloodline and what happens to it": {
+      "learn to make your future generation's success your own cross to bear":"Method",
+      "learn to have pride in your name and that you will pass it on to others, and that they should have pride in it as well":"Method,
+      "learn to care about others who share your name":"Method",
+      "learn to value what happens to you as directly affecting your bloodline":"Method"
+    }
   },
   "Learn/learn of all skills necessary to life/life's beauty": {
     "learn to appreciate art": {
-        "learn the steps to produce the art": {},
-        "learn how to appreciate the art": {},
-        "learn how to create the art (yourself)": {},
-        "practice creating the art until proficient": {}
+        "learn the steps to produce the art": {
+	  "learn how each medium of art is produced, and why it is done that way":"Method"
+	},
+        "learn how to appreciate the art": {
+	  "learn to appreciate all of the steps, work, and skill put into art":"Method"
+	},
+        "learn how to create the art (yourself)": {i
+	  "learn what you need to do to be able to create the art yourself and link it":"Method"
+	},
+        "practice creating the art until proficient": {
+	  "learn to practice and love practicing art, until your work is excellent":"Method"
+	}
     },
     "learn philosophy": {
-        "study all fields of philosophy": {},
-        "make your own take on all concepts or ideas": {},
-        "feedback findings and ideas into your own actions": {}
+        "study all fields of philosophy": {
+	  "learn what all of the fields of philosophy are and their role in the world":"Method",
+	  "learn how to study each field of philosophy and contrast it with your own take":"Method",
+	  "learn how to use your philisophical take to influence your actions":"Method"
+	}
     },
     "travel the world": {
-        "learn how to be safe when traveling": {},
-        "go experience everything the world has to offer": {}
+        "learn how to be safe when traveling": {
+	  "learn the shoulds and rules of traveling at each location you visit":"Method",
+	  "learn general safety precautions for when traveling":"Method"
+	},
+        "go experience everything the world has to offer": {
+	  "learn what every place in the world has to offer":"Method",
+	  "learn how to plan out and go tour everything to learn all you can from the world":"Method"
+	}
     },
     "learn how to attune with nature": {
-        "learn survival skills": {},
-        "go visit the wonders of the world": {},
-        "tune into primal nature spirit": {}
+        "go visit the wonders of the world": {
+	 "go visit ancient, modern, and future wonders of the world":"Method"
+	},
+        "tune into primal nature spirit": {
+	  "learn how to ground yourself and be humble to connect with nature":"Method",
+	  "learn how to feel 'energy' of the world around you":"Method",
+	  "learn how to tune yourself to a primal self, that is purely instinct driven":"Method"
+	}
     }
   },
   "To not want/be content": {
-    "know everything you have is not yours": {},
-    "know the Lord provides everything you need": {},
-    "know you truly need nothing": {},
-    "do not idealize on something 'more', because it that loop will never end": {}
+    "know the Lord provides everything you need": {
+      "learn that the Lord gives you your daily bread, and that you should not want":"Method",
+      "learn that anything you need, the Lord will provide":"Method"
+    },
+    "know you truly need nothing": {
+      "learn that, as mortal beings, of this world, we truly need nothing since our spirit is saved":"Method"
+    },
+    "do not idealize on something 'more', because it that loop will never end": {
+      "learn that to be content you must accept what you have":"Method",
+      "learn to not chase the next best thing, since that pursuit will never end":"Method"
+    }
   },
   "To be accepting of all": {
-    "understand that everyone is different": {},
-    "understand that it is your job to be the water in everyone's desert": {}
+    "understand that everyone is different": {
+      "learn to value and understand everyone and their role and point of view in life":"Method"
+    },
+    "understand that it is your job to be the water in everyone's desert": {
+      "learn that as a human being, it is your job to be the water in EVERYONE's desert and fill in their gaps and provide what they need":"Method"
+    }
   },
   "To think about things fairly in relation to each other and derive action from that": {
     "learn morals and ethics": {
-        "learn basics and applications of morals and ethics": {},
-        "engrain the basics of morals and ethics into your mind and behaviour": {}
+        "learn basics and applications of morals and ethics": {
+	  "learn the basics and real world applications of morals":"Method",
+	  "learn how morals played a role in the past and how they are in today's society and how they may go in the future":"Method",
+	  "learn the basics and real world applications of ethid":"Method",
+	  "learn how ethics played a role in the past and how they are in today's society and how they may go in the future":"Method"
+	},
+        "engrain the basics of morals and ethics into your mind and behaviour": {
+	  "learn how to view the world through a moral lens and let it influence your behaviour":"Method",
+	  "learn how to view the world through an ethical lens and let it influence your behaviour":"Method"
+	}
     },
     "control your impulse": {
         "do not act out on emotion or intuition": {},
