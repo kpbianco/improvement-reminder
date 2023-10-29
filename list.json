@@ -1641,65 +1641,141 @@
 	}
     },
     "control your impulse": {
-        "do not act out on emotion or intuition": {},
-        "learn tools to slow yourself down/toggle to a state where you can ponder your actions": {}
+        "do not act out on emotion or intuition": {
+	  "learn how to delay your actions to go through your mind before they are enacted":"Method"
+	},
+        "learn tools to slow yourself down/toggle to a state where you can ponder your actions": {
+	  "learn how to be introspective on your life":"Method",
+	  "learn how to be able to toggle between being reactive and introspective":"Method"
+	}
     },
     "learn to be assertive": {
-        "align actions with beliefs, no beating around the bush": {},
-        "do not be surprised by anything natural": {},
-        "learn how to function in high-stress situations": {},
-        "get things done no matter what": {}
-    },
-    "learn to be non-turbulent": {
-        "don't be surprised": {},
-        "control your emotions": {},
-        "control your impulse": {}
+        "align actions with beliefs, no beating around the bush": {
+	  "learn how to define what your beliefs are":"Method",
+	  "learn how to define what acting in alignment with your beliefs looks like":"Method",
+	  "learn how to truly act in alignment with your belief and not deviate from it or hesitate":"Method"
+	},
+        "do not be surprised by anything natural": {
+	  "learn that everyuthing that occurs on earth is natural":"Method",
+	  "learn that because everything is natural is should not be surprising":"Method",
+	  "learn that because nothing is surprising you should never be surprised":"Method"
+	},
+        "learn how to function in high-stress situations": {
+	  "learn that panic, neuroticism, and turbulence is not beneficial in stressful situations":"Method",
+	  "learn how to eliminate negative thoughts and actions in high-stress situations":"Method",
+          "learn how the benefits of using stress hormones to increase productivity":"Method",
+	  "learn how to use stress hormones for your benefit":"Method"
+
+	},
+        "get things done no matter what": {
+	  "learn how to make sure you see things you seek out to complete to completion, no matter the cost":"Method"
+	}
     },
     "weigh each item equally (openmindedness)": {
-        "do not refute ideas outright": {},
-        "consider each item carefully": {},
-        "be non-biased to selection": {},
-        "be flexible to compromise": {}
+        "do not refute ideas outright": {
+	  "learn to consider every stimulus you take in":"Method",
+	  "learn to not disregard anything without giving it proper consideration":"Method"
+	},
+        "be non-biased to selection": {
+	  "learn to not automatically accept anything without giving it proper consideration":"Method"
+	},
+        "be flexible to compromise": {
+	  "learn how to not fixate on what you preconceived to be what you wanted":"Method",
+	  "learn how to accept different ideas, and change your behaviour appropriately":"Method"
+	}
     },
     "be pragmatic": {
-        "learn fundamentals of pragmaticism": {},
-        "learn how to balance pragmaticism with other paradigms": {}
+        "learn fundamentals of pragmaticism": {
+	  "learn about pragmaticism, what it stands for, its benefits, and how to utilize it":"Method"
+	},
+        "learn how to balance pragmaticism with other paradigms": {
+	  "learn how to utilize pragmaticism to bring balance to your life, in conjunction with other paradigms":"Method"
+	}
     }
   },
   "To appreciate beauty": {
-    "learn that not everything needs a function or to be efficient": {},
+    "learn that not everything needs a function or to be efficient": {
+      "learn to not expect for something to have a function or to be done efficiently":"Method",
+      "learn how to appreciate things that do not have a function or are not done efficiently":"Method"
+    },
     "live in the moment/be mindful": {
-        "live in the present": {},
-        "do not be weighed down by thoughts": {},
-        "appreciate what is happening and how it is happening": {}
+        "live in the present": {
+	  "learn how to be present with your senses":"Method",
+	  "learn how to be aware of your surroundings":"Method",
+	  "learn how to push the future and past from your thoughts and focus on the now":"Method"
+	},
+        "appreciate what is happening and how it is happening": {
+	  "learn to see everything that is happeneing":"Method",
+	  "learn to appreciate everything that happens and that it is happening for a reason":"Method",
+	  "learn to appreciate how things happen, and the complexity of the preordained chaos and order of events and how they come together":"Method"
+	}
     },
     "connect with nature/spiritual/divine self": {
-        "be humble": {}
+        "be humble": {
+	  "learn what humility is and why it is a desired trait":"Method",
+	  "learn what it takes to be humble and how to pursue it":"Method",
+	  "learn how to make all of your behaviour through a humble lens":"Method"
+	}
     }
   },
-  "be honorable": {
-    "hold self-accountable": {},
-    "treat others well and all the same": {}
-  },
   "Be someone I would want my son to be like": {
-    "do not consume porn": {},
-    "do not participate in hookups": {},
-    "do not be discontent": {},
-    "do not be wasteful of your time": {},
-    "do not be afraid to take risks": {
-        "learn that there is no real risk, it is all in your head": {},
-        "be fine with being uncomfortable": {},
-        "practice taking risks": {}
+    "do not consume porn": {
+      "learn the negative effects of porn":"Method",
+      "learn how to repel pornographic urges":"Method",
+      "learn how to not act out on lustful thoughts":"Method"
     },
-    "do not be calloused towards people": {}
+    "do not participate in hookups": {
+      "learn the true loving, and intimate connection of sex":"Method",
+      "learn what it means to give away your body and the effects on your body and mind":"Method",
+      "learn to value intimacy over lust":"Method"
+    },
+    "do not be discontent": {
+      "learn what true contentment is and its role in fulfillment":"Method",
+      "learn how to find contentment in even challenging times":"Method",
+      "learn how to actively remain introspective with realistic expectations to be content":"Method"
+    },
+    "do not be wasteful of your time": {
+      "learn how to properly value your time and base your efforts accordingly":"Method",
+      "learn how to say no to distractions and things that do not use your time effectively":"Method"
+    },
+    "do not be afraid to take risks": {
+        "learn that there is no real risk, it is all in your head": {
+	  "learn that there are not any significant, real consequences to your actions, just what you perceive":"Method",
+	  "learn how to properly evaluate the risk and effect of your actions and turn them off depending":"Method",
+	  "learn that growth is from calculated risks, learning from mistakes, and trying new things":"Method"
+	},
+        "be fine with being uncomfortable": {
+	  "learn that comfort is the inhibitor of growth":"Method",
+	  "learn to find comfort in being uncomfortable":"Metod",
+	  "learn to find discomfort in being consistently comfortable":"Method"
+	},
+        "practice taking risks": {
+	  "learn how to practice and take risks safely, and effectively":"Method",
+	  "learn how to consistently push yourself out of your comfort zone":"Method"
+	}
+    },
+    "do not be calloused towards people": {
+      "learn to never harden your heart to anyone, even if they 'deserve it'":"Method",
+      "learn to never treat or think of someonebody in bad faith":"Method"
+    }
   },
   "Be someone my mother would be proud of": {
     "be a good brother": {
-        "care for family and treat them with love": {}
+        "care for family and treat them with love": {
+	  "learn to value family and the need for them and your roles in each other's lives":"Method",
+	  "learn how to treat your family members with love and grace unconditionally":"Method"
+	}
     }
   },
   "Be a gentleman": {
-    "learn what low-class habits are and how to avoid them": {},
-    "learn what high-class habits are and how to emulate them (look at examples)": {}
+    "learn what low-class habits are and how to avoid them": {
+      "learn to identify what low-class habits are":"Method",
+      "learn why people do low-class habits":"Method",
+      "learn how to distinguish yourself and not do low-class habits":"Method"
+    },
+    "learn what high-class habits are and how to emulate them (look at examples)": {
+      "learn to identify what high-class habits are":"Method",
+      "learn why people do high-class habits":"Method"
+    }
   }
 }
