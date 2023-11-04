@@ -5,117 +5,120 @@
         "learn what positive mental attitude is": "Method"
       },
       "learn how to be positive": {
-        "learn how to apply a positive mental attitude to the way you act": "Method"
+        "learn how to apply a positive mental attitude to your behaviour": "Method"
       },
       "learn how to maintain positivity and dismiss all else": {
-        "learn how to ignore negativity": "Method",
-        "learn how to radiate positivity even in bleak moments": "Method"
+        "learn how to ignore negativity always": "Method",
+        "learn how to radiate positivity always": "Method"
       }
     },
     "have a social network": {
       "learn how to add people to your social network": {
-        "learn how to befriend people and then add them as a contact to connect with" : "Method"
+        "learn how to befriend people and connect with them as a contact" : "Method"
       },
       "learn how to prune and maintain the social network": {
         "learn how to remove toxic people from your life": "Method",
-        "learn how to escalate/descalate the relevance of people in your life based off what they bring": "Method",
-        "learn how to encourage posiitve people in your life": "Method"
+        "learn how to escalate/de-escalate the relevance of people in your life based off what they bring to the table": "Method",
+        "learn how to encourage positive people in your life on their goals": "Method"
       },
       "learn how to utilize social network to accomplish goals": {
-        "learn how to identify talents and utilizations of your network": "Method",
-        "learn how to use the talents of your network to supplement your own abilities": "Method"
+        "learn how to identify talents and utilizations of the people in your network": "Method",
+        "learn how to use the talents of those in your network to supplement your own abilities": "Method"
       },
       "explore exploitations of capabilities": {
         "learn how to prevent yourself from be used by others": "Method"
       },
-      "learn how to be a great brother to others and have their back": {
-        "learn what it is your friends need from you and provide it": "Method",
-        "learn how to always be available and supporting of your friends": "Method",
+      "learn how to be a great 'brother' to others and have their back": {
+        "learn how to tell what it is your friends need of you and the role you need to play": "Method",
+        "learn how to fill your friends needs consistently and reliably": "Method",
+        "learn how to always be available and supportive of your friends": "Method",
         "learn to treat your friends better than yourself": "Method"
       }
     },
     "have a desire for change": {
-      "care about wellfare of others over self": {
+      "care about the wellfare of others over the wellfare of yourself": {
         "learn that humans are of one body, a society, and taking care of others is taking care of yourself": "Method",
-        "learn how to accept that I may not receive the best outcome for myself if I help others": "Method"
+        "learn how to accept that I may not receive the best outcome for myself if I help others and that is okay": "Method"
       },
       "practice service and be quick to help": {
-        "learn how to be less hesitant or apprehensive with helping, and make it second nature": "Method",
+        "learn how to be less hesitant or apprehensive when helping, and make the behaviour second nature": "Method",
         "learn how to always be in a state where you are willing and capable of helping others": "Method"
       }
     }
   },
   "be kind": {
     "have forgiveness": {
-      "understand it's not truly a big deal since neither am I or society truly harmed": {
-        "learn to forgive others, since it has no impact on yourself or society": "Method",
+      "understand it's not truly a big deal since neither am I or society truly harmed when sleighted": {
+        "learn to forgive others, since it has no impact on yourself or society as a whole in the grand scheme of things": "Method",
         "learn how to give the other person the benefit of the doubt and not be upset with them for what they do": "Method"
       },
       "realize grudge/vengeance/distaste harbors no benefit": {
-        "learn that holding grudge/vengeance/distaste for things harbors no benefit": "Method",
+        "learn that holding grudge/vengeance/distaste for things harbors no real benefit": "Method",
         "learn that positive reactions for ill behaviours have many benefits": "Method"
       },
       "realize past does not equal present or future": {
-        "learn that peoples behaviour in the past may not be replicated now or in the future": "Method",
+        "learn that people's behaviour in the past may not be replicated now or in the future": "Method",
         "learn how to not hold the past against people": "Method"
       }
     },
     "be slow to anger": {
-      "think before I act": {
+      "think before you act": {
         "learn how to not be impulsive or emotionally driven in your actions": "Method",
-        "learn how to think about all plans of action and how to choose the best one quickly": "Method"
+        "learn how to think about all plans of action and how to choose the best one quickly": "Method",
+        "learn to instill the practice of deliberately choosing your actions": "Method"
       },
       "separate irritation from the entity causing it": {
-        "learn that objects and the way we interpret the objects are two different things": "Method",
-        "learn that all irritation is caused from me having a problem with it, not the entity causing it": "Method"
+        "learn that objects themselves and the way we interpret those objects are two separate things": "Method",
+        "learn that all irritation is caused from you yourself having a problem with it, not the entity itself": "Method"
       },
       "treat others with full respect, always": {
         "learn how to treat everyone equally": "Method",
-        "learn how to never think of, treat, or respect others less for whatever reason": "Method"
+        "learn how to never think of, treat, or respect others less than max for whatever reason": "Method"
       }
     },
     "have patience": {
       "understand things do not go as planned": {
         "learn flexibility": {
-          "learn how to go with the flow" : "Method",
-          "learn how to compromise with others": "Method",
-          "learn how to not get attached to the plans I have made in my head" : "Method"
+          "learn how to go with the flow instead of being rigid" : "Method",
+          "learn how to compromise with others instead of being rigid": "Method",
+          "learn how to not get attached to the plans I have made in my head and be okay with change" : "Method"
         }
       },
       "come up with coping strategies": {
         "learn how to deal with 'triggers' that invoke negative emotion": "Method",
-        "learn and practice making if 'x' bad thing occurs I do 'y'": "Method"
+        "learn and practice making if 'x' bad thing occurs you do 'y' responses": "Method"
       },
-      "do not think of your time or efforts as lost": {
-        "learn that you learn something from everything, even if your time or effort is destroyed": "Method",
-        "learn how to not be attached to what you make or spend energy on" : "Method",
+      "do not think of your time or efforts as lost when things don't go as planned": {
+        "learn that you learn something from everything, even if your product is destroyed": "Method",
+        "learn how to not be attached to what you make or spend energy on because it is not permanent" : "Method",
+        "learn to appreciate the art and process of the journey and not the end result" : "Method",
         "learn that nothing is ever destroyed, just converted to a different energy" : "Method"
       },
       "do not blame others for outcomes": {
         "learn to not put the blame of an outcome on another person": "Method",
-        "learn how to find the root cause of an outcome, not the person or culprit": "Method"
+        "learn how to find the root cause of an outcome within, not the person or culprit": "Method"
       }
     },
     "take genuine interest": {
-      "value the other person as a true human being, equal to self": {
-        "learn and accept that whatever you go through on a daily basis, others experience as well" : "Method"
+      "value the other person as a true human being, equal to yourself": {
+        "learn and accept that whatever you go through on a daily basis, others experience that as well" : "Method"
       },
-      "know I always have something to learn while listening": {
-        "whenever speaking with someone, never tune out, since there is something to learn": "Method"
+      "know I always have something to learn from others when listening": {
+        "learn to never tune out, since there is something to learn from listening to others": "Method"
       },
       "if time/effort will be used on conversation, you might as well pay attention": {
-        "never participate in a conversation if you have no intention of paying attention": "Method"
+        "learn to never participate in a conversation if you have no intention of paying attention": "Method"
       }
     },
     "Be a good father/husband": {
       "marriage": {
         "learn how women's minds work": {
-          "Learn womens motives":  "Method",
+          "Learn women's motives":  "Method",
           "Learn how women interpret new stimuli": "Method",
           "Learn how women process emotions": "Method",
           "Learn how women take action": "Method",
           "Learn how women socialize": "Method",
-          "Learn women's strengths/weaknesses in mind": "Method"
+          "Learn women's strengths/weaknesses in their mind": "Method"
         },
         "learn how men's minds work": {
           "Learn men's motives": "Method",
@@ -123,53 +126,52 @@
           "Learn how men process emotions": "Method",
           "Learn how men take action": "Method",
           "Learn how men socialize": "Method",
-          "Learn men's strengths/weaknesses in mind": "Method"
+          "Learn men's strengths/weaknesses in their mind": "Method"
         },
         "learn how attraction and relationships work": {
           "learn what makes people interested in each other romantically": "Method",
           "learn how to use peoples innate desires for genetic superiority to boost own attractiveness": "Method",
-          "learn what makes other people attractive to me": "Method",
+          "learn what makes other certain people attractive to me": "Method",
           "learn how to turn basic physical attraction and nurture it into pure attraction/seduction": "Method",
           "learn how to convert mutual attractiveness into relationships": "Method",
-          "learn how to maintain attractiveness over a period of time": "Method",
-          "learn the mens role in a relationship": "Method",
-          "learn the womens role in a relationship": "Method",
+          "learn how to maintain attraction over a period of time": "Method",
+          "learn the man's role in a relationship": "Method",
+          "learn the woman's role in a relationship": "Method",
           "learn the stages and ins and outs of relationships": "Method",
           "learn how relationships with women change over time": "Method",
-          "learn the role a relationship with a woman plays in your life": "Method",
+          "learn how the role of a relationship with a woman plays into your life": "Method",
           "learn how to cater to a woman's needs/desires for relational harmony": "Method"
         },
         "learn how to pull women": {
           "learn how to become what women find attractive": "Method",
           "learn how to not have nerves and be smooth when talking with women": "Method",
-          "learn how to build up repoire fast with women and convert it into a hangout": "Method",
+          "learn how to build up repoire fast with women and convert it into more": "Method",
           "learn how to leave a lasting impression on women, leaving them wanting more": "Method",
-          "learn how to be interesting so women will want to hangout with you again": "Method",
-          "learn social cues with women on how to push/pull boundaries and make moves": "Method"
+          "learn how to be interesting so women will want to see you again": "Method",
+          "learn social cues with women on how to push/pull relational boundaries and make moves": "Method"
         },
         "learn how to treat/maintain a lady": {
-          "learn what kind of chivalric behaviour you should use to treat a women with": "Method",
+          "learn what kind of chivalric behaviour you should treat a women with": "Method",
           "learn how to maintain composure in the presence of a woman": "Method",
-          "learn how to treat a woman well regardless of romantic interest or appreciation": "Method",
+          "learn how to treat a woman well, regardless of romantic interest or appreciation": "Method",
           "learn how to be a romantic": "Method",
           "learn how to be gentle with women": "Method"
         },
-        "learn women social skills": {
+        "learn women catered social skills": {
           "learn what women like to talk about": "Method",
-          "learn how to control men 'vulgarity' around women": "Method",
-          "learn how to listen and care to what women have to say": "Method",
-          "learn how to tell stories and frame speech to cater to women": "Method"
+          "learn how to control common men 'vulgarity' around women": "Method",
+          "learn how to truly isten and care to what women have to say": "Method",
+          "learn how to tell stories and frame your speech to cater to women": "Method"
         },
-        "practice social skills/rizz": {
+        "practice social skills": {
           "practice talking with strangers": "Method",
-          "practice talking with strangers that are women (intended but without intention)": "Method",
-          "practice talking with strangers that are women (with intention)": "Method",
+          "practice talking with strangers that are women (fake romantic intention)": "Method",
+          "practice talking with strangers that are women (real romantic intention)": "Method",
           "practice talking with coworkers/different coworkers (networking)": "Method",
           "practice talking with the people I would normally avoid talking to": "Method",
           "practice talking with other men": "Method"
         },
-        "encorporate what I learned from past relationships": "Method",
-        "be persistent until I get married and die": "Method2"
+        "encorporate what I learned from past relationships into your behaviour": "Method"
       },
   
       "financially stable": {
