@@ -910,43 +910,43 @@
     "ability to help": {
       "teach (learn skill first)": {
         "learn how people learn and cater curriculum to peers": {
-          "learn how human psychology and biology play a role in learning": "Method",
-          "learn the different methods people learn": "Method",
+          "learn how human psychology and biology play a role in people's learning": "Method",
+          "learn the different methods in how people learn": "Method",
           "learn the art of learning": "Method",
-          "learn how to curate, cater, and practice different teaching methods to help others learn": "Method"
+          "learn how to curate, cater, and practice different teaching methods to be profiecient in helping others learn": "Method"
         },
         "learn how to speak to convey your message well": {
           "learn how to be able to articulate your thoughts efficiently" : "Method",
           "learn how to convey your thoughts into words that are easy and accessible for others to understand": "Method",
           "learn how to convey your message in a concise and logical format that is digestable and logical": "Method"
         },
-        "genuinely care about the peer's learning and accomodate accordingly": {
+        "genuinely care about your peer's learning and accomodate accordingly": {
           "learn that others are like you, and that their learning is just as important as your learning": "Method"
         }
       },
       "serve others": {
-        "learn how to tell how the person is deficient and fill the hole": {
+        "learn how to tellin what ways the person is deficient and fill that hole": {
           "learn how to evaluate people's weaknesses and strengths": "Method",
-          "learn how to tell when a person is struggling or they need extra help": "Method",
+          "learn how to tell when a person is struggling or when they need extra help": "Method",
           "learn how to help others in their areas of deficiency": "Method"
         },
         "learn how to serve without coming across as demeaning": {
-          "learn how to factor yyour behaviour in a way that does not condescend or make others feel inferior": "Method",
+          "learn how to factor your behaviour in a way that does not condescend or make others feel inferior": "Method",
           "learn to behave in the most helpful manner possible": "Method"
         }
       },
       "communication with others": {
         "learn rhetoric": {
           "learn how to be persuasive": "Method",
-          "learn the aristatilian art of persuasion": "Method"
+          "learn the aristotillian art of persuasion": "Method"
         },
         "learn logic": {
-          "learn the aristatilian art of logic": "Method",
+          "learn the aristotillian art of logic": "Method",
           "learn how to use logic to derive your mindset and actions": "Method"
         },
         "learn how to listen": {
-          "learn how to suppress your desire to speak in order to listen": "Method",
-          "learn how to properly take in what others say, instead of just waiting your turn to speak": "Method"
+          "learn how to suppress your desire to speak so that you can properly listen": "Method",
+          "learn how to properly take in what others say, instead of just waiting for your turn to speak while thinking of how to respond": "Method"
         },
         "learn how to put others before yourself": {
           "learn that taking care of others is more important than taking care of yourself": "Method"
@@ -973,12 +973,12 @@
     "stoic": {
       "be constant with your physical expression": {
         "learn to never look or act surprised, since all things that happen on Earth are natural": "Method",
-        "learn how to filter your reaction on your environment through your head and how to process it without reacting": "Method"
+        "learn how to filter your reaction through your head derived from the environment and how to process it without reacting": "Method"
       },
       "do not succumb to pain or pleasures": {
         "learn how to control your body and be indifferent to whether or not you are under plain or pleasure": "Method",
-        "learn how to not let the hedonistic life control you or influence your decisions or actions": "Method",
-        "learn how to not let the fear of pain control you or influence your decisions or actions": "Method"
+        "learn how to not let the hedonistic life control or influence your decisions and actions": "Method",
+        "learn how to not let the fear of pain control or influence your decisions and actions": "Method"
       },
       "do not treat others with difference": {
         "learn that the value of everyone is equal, and therefore their treatment should be equal": "Method",
@@ -997,16 +997,16 @@
     },
     "strong of will": {
       "figure what is the truth you should pursue": {
-        "learn how to decide what the truth is and what false data is": "Method",
+        "learn how to decide what the truth is and what is false": "Method",
         "learn how to properly pursue the truth and avoid false data": "Method"
       },
       "do not falter from the pursuit of truth": {
-        "learn to not let others, or anything ever dissuade you from persuing true truth": "Method"
+        "learn to not let others, or anything ever dissuade you from pursuing truth": "Method"
       }
     },
     "discipline": {
       "hold yourself accountable to the pursuit of truth": {
-        "learn that the only thing preventing you from pursuing truth is yourself so act accordingly": "Method"
+        "learn that the only thing preventing you from pursuing truth is yourself": "Method"
       },
       "repent from diverting from the pursuit of truth": {
         "learn that when you do not pursue truth, you must make ammends and get back on track": "Method" 
@@ -1015,17 +1015,17 @@
     "high testosterone": {
       "omit modern technology": {
         "learn to avoid unresearched, modern technology, especially if it contradicts traditionalism": "Method",
-        "leawrn to avoid unnecesary modernization, just because others do it": "Method"
+        "leawrn to avoid unnecesary modernization, just because others in society do it": "Method"
       },
       "sleep": {
         "learn how sleep works and plays a role in human biology": "Method",
         "learn how to determine how much sleep you need and plan accordingly": "Method",
-        "learn how to create and maintain a sleep schedule to make you you always get what you need": "Method",
+        "learn how to create and maintain a sleep schedule to make sure you always get what you need": "Method",
         "learn how to prioritize your own sleep and the sleep of others": "Method",
-        "learn how to make your own sleep more efficient": "Method"
+        "learn how to make your own sleep more efficient (cost efficient)": "Method"
       },
       "embody a good state of mind": {
-        "learn to never linger in a bad state of mind, where you cannot produce good things": "Method",
+        "learn to never linger in a bad state of mind, since you cannot produce good things": "Method",
         "learn how to cleanse your mind and get into a good place when you are in a rut": "Method"
       },
       "get time in the sun daily": {
@@ -1033,7 +1033,7 @@
       }
     },
     "strong in faith": {
-      "pursue improvement actively, devote yourself to being a follower of christ": {
+      "pursue improvement actively, devote yourself to being a follower of Christ": {
         "learn how to make time for God everyday": "Method",
         "learn how to study the Lord properly and make sure to routinely do it": "Method"
       },
@@ -1046,7 +1046,7 @@
     },
     "reach physical strength limits": {
       "keep training with consistency": {
-        "learn to never miss a training session, ever": "Method"
+        "learn to never miss a training session, even if it means being unconventional": "Method"
       },
       "diversify your training": {
         "athletic training": {
@@ -1137,7 +1137,7 @@
       },
       "stay mentally sharp": {
         "problem solve regularly": {
-          "learn to keep your life full of problems, and practice and keep solving them regularly": "Method"
+          "learn to keep your life full of problems, and keep solving them regularly": "Method"
         },
         "work on new things regularly": {
           "learn to and try new things daily": "Method"
@@ -1150,8 +1150,8 @@
           "learn how to stress the creative part of your brain and create original work and do it regularly": "Method"
         },
         "do something that stresses your memory capabilities regularly": {
-          "learn how to stress your short working memory and do it regularly": "Method",
-          "learn how to stress your long term working memory and remember your memories, and do it regularly": "Method"
+          "learn how to stress your short-term working memory and do it regularly": "Method",
+          "learn how to stress your long-term working memory and remember your memories, and do it regularly": "Method"
         },
         "journal/pray regularly": {
           "learn how to journal properly and consistently": "Method",
@@ -1183,7 +1183,7 @@
         "learn how to avoid bad practice pitfalls": "Method"
       },
       "learn how to prioritize": {
-        "learn how to identify which tasks deserve priority and how to hierarche them": "Method"
+        "learn how to identify which tasks deserve priority and how to hierarche them accordingly": "Method"
       },
       "learn how to time-manage": {
         "learn how to allocate your time to accomplish your goals the most efficiently": "Method",
@@ -1196,7 +1196,7 @@
       },
       "make your mission your whole life: eat, sleep, breathe it": {
         "learn how to find true passion in something and put your whole soul into it": "Method",
-        "learn how to cut off all disctractions and get to the grind if necessary": "Method"
+        "learn how to cut off all distractions and get to the grind if necessary": "Method"
       },
       "learn how to retain information": {
         "learn how to study things you learn so they can be recalled": "Method",
@@ -1207,45 +1207,45 @@
         "learn how to identify what your shortcomings are so that they can be expounded upon": "Method",
         "learn how to identify what needs to be done to overcome your shortcomings": "Method",
         "learn how to actively work on your shortcomings and analyze their effectiveness and refine the work": "Method",
-        "learn how to incentively reward yourself for good performance on remediating shortcomings": "Method"
+        "learn how to incentively reward yourself for good performance on remediating your shortcomings": "Method"
       }
     },
     "have the drive to pursue something": {
-      "find why you care about something and pile your wood on top of that": {
+      "find out why you care about something and pile your wood on top of that": {
         "learn the mechanics and reasoning of why and how the brain assigns values to things": "Method",
         "learn how to utilize the value you place on things to allow you to concentrate your efforts": "Method"
       },
       "learn how to push yourself even further": {
-        "learn how to not be content with 'good enough'": "Method"
+        "learn how to not be content with just 'good enough'": "Method"
       },
-      "see the future and yield of your efforts and use this as fuel": {
-        "learn how to see the outcome of each level of effort you put in, and align your actions with the outcome you desire": "Method"
+      "see the future yield of your efforts and use this as fuel": {
+        "learn how to see the outcome at each level of effort you put in, and align your effort with the outcome you desire": "Method"
       },
       "think about weight on shoulders and the responsibility for greatness resting on it": {
-        "learn to value the weight your previous ancestors have on you and the expectation to surpass them": "Method",
-        "learn to put the expectation from yourself to provide for yourself, others, and your future generations": "Method"
+        "learn to value the weight your previous ancestors had, and on you and the expectation to surpass them": "Method",
+        "learn to put the expectation to provide for yourself, others, and your future generations on yourself": "Method"
       },
-      "think about how you want to do it all the way for the respect on your name": {
+      "think about how you want to do things fully for the respect on your name": {
         "learn what it means to associate your name with quality, and how to follow through with it": "Method"
       },
-      "think about how it is your journey, not others, so you must finish it": {
+      "think about how your life is your journey, not others, so you must finish it": {
         "learn what it means to begin something and that YOU must be the one to finish it if you start it": "Method"
       }
     },
-    "find something meaningul, impactful, and somethign you are truly passionate about": {
+    "find something meaningful, impactful, and somethign you are truly passionate about": {
       "learn how to comb through data efficiently": {
         "learn how to properly research things": "Method",
         "learn how to ingest large amounts of data": "Method",
         "learn how to digest large amounts of data and extract only pertinent things": "Method"
       },
-      "learn what you are good at": {
+      "learn how to identify what you are good at": {
         "learn how to be realistic when self evaluating your strengths and weaknesses": "Method",
-        "learn to constantly analyze your skill level on everything in your repetoire": "Method",
+        "learn to constantly analyze your skill levelof everything in your repetoire": "Method",
         "learn how to stick to your strengths, avoid your pitfalls, and constantly work on the rest": "Method"
       },
       "learn to apply your abilities to your appropriate niche": {
         "learn how to find unique subsets of tasks that allow you to utilize your skills and have an impact in the niche": "Method",
-        "learn how to be opportunistic when it comes to utilizing your hobbies": "Method"
+        "learn how to be opportunistic when it comes to utilizing your skills": "Method"
       }
     },
     "sacrifice/see your goal to completion": {
@@ -1256,16 +1256,16 @@
         "learn how to plan out the progression of your goal and what it will look like over time": "Method"
       },
       "be retroactive and retrospective at every stage in the process": {
-        "learn to look at your progress at every stage during your goal so that you can be more effective": "Method"
+        "learn to look at your progress at every stage during your goal and analyze it consciously": "Method"
       }
     },
     "make your future better": {
       "be future focused": {
-        "learn how to keep your head up and focused on toil for a better future": "Method",
+        "learn how to keep your head up and focused on the toiling for a better future": "Method",
         "learn how to not lose sight of what will be and how to look at the big picture": "Method"
       },
       "have systematic thinking": {
-        "learn how to think of concepts and ideas as of a complex system an their inner workings": "Method",
+        "learn how to think of concepts and ideas as of a complex system and their inner workings": "Method",
         "learn how to split up a concept into their smallest components so they can be digested": "Method"
       },
       "make effort timeless and age-proof": {
@@ -1275,7 +1275,7 @@
     "have your name tied to your legacy": {
       "make your efforts known (not for fame)": {
         "learn how to stand out and make sure what you do is associated with you": "Method",
-        "learn how to make only the good things you do stick with others on their impression of you": "Method"
+        "learn how to make only the good things you do stick with others and their impression of you": "Method"
       }
     }
   },
