@@ -1285,18 +1285,18 @@
       "learn how to value knowledge above everything else": "Method"
     },
     "truly love learning": {
-      "learn how to find enjoyment in the art of learning and its benefits in your life": "Method"
+      "learn how to find enjoyment in the art of learning and its rewards in your life": "Method"
     },
     "force yourself to learn": {
-      "learn to never be complacent with what you knokw, to always yearn for more": "Method"
+      "learn to never be complacent with what you know, always yearn for more": "Method"
     },
     "give yourself milestones/checks for motivation of learning": {
       "plan out important markers of learning": {
-        "learn how to gauge the stages of progression on your learning and mark them so they can be celebrated and analayzed later": "Method",
+        "learn how to gauge the stages of progression on your learning and mark them": "Method",
         "learn how to properly plan around your learning milestones in order to further boost their effectiveness and their impact": "Methods"
       },
       "monument each marker with a positive feedback loop": {
-        "learn how to properly reward yourself on eachstage in your learning progress map": "Method"
+        "learn how to properly reward yourself on eachbstage in your learning progress map": "Method"
       }
     },
     "stay on path entire life and do not deviate": {
@@ -1306,7 +1306,7 @@
   "Be prepared for everything": {
     "be ready": {
       "alert and responsive at all times": {
-        "learn how to always be prepared and ready for everything all the time, and be observant of it": "Method"
+        "learn how to always be prepared and ready for everything all the time": "Method"
       }
     }
   },
@@ -1323,7 +1323,7 @@
     },
     "learn how to save face and make a good impression always": {
       "learn how to properly make impressions on others at all stages in your interactions with them": "Method",
-      "learn how to never tarnish others view of yourself, and to avoid the tarnishing by saving face": "Method"
+      "learn how to never tarnish others how others view you": "Method"
     }
   },
   "Be a man of virtue": {
@@ -1344,7 +1344,7 @@
       "learn and practice how to be akin to your role in society": {
         "learn the fundamental ways people live in when socially grouped": "Method",
         "learn the fundamental ways people live in society in the modern times": "Method",
-        "learn how to embody positive historic/modern society roles and reject negative historyic/modern negative society roles": "Method"
+        "learn how to embody positive historic/modern society roles and reject negative historyc/modern negative society roles": "Method"
       },
       "learn and practice how to be in akin to your divine nature": {
         "learn what it takes to be a divine entity": "Method",
@@ -1354,10 +1354,10 @@
     },
     "always do what is right": {
       "learn what is right and what is wrong and how to properly assess it": {
-        "learn how to discern between things that are right or encouragable or wrong and discourageable": "Method"
+        "learn how to discern between things that are right or encouragable and those that are wrong and discourageable": "Method"
       },
       "have discipline and stick to what's right despite pitfalls": {
-        "learn to stick with what is right once identified, and not falter to whats wrong, no matter what": "Method"
+        "learn to stick with what is right once identified, and not falter to whats wrong": "Method"
       },
       "do not expect anything in return for your actions": {
         "learn that living the high road with what is right yields no reward, but must be done regardless": "Method"
@@ -1370,77 +1370,89 @@
       },
       "give out your word rarely, always withy full intent": {
         "learn to never give your word to things you do not intend on fulfilling": "Method",
-        "learn treat your word as a one of your most valuable currencies": "Method"
+        "learn to treat your word as a one of your most valuable currencies": "Method"
       },
       "if you transgress your promise, repent and make up for it": {
-        "learn to hold yourself accountable for not fulfilling your promises, and make ammends no matter what": "Method"
+        "learn to hold yourself accountable for not fulfilling your promises, and make ammends": "Method"
       }
     }
   },
-  "Become self-sufficient and  sustaining": {
+  "Become self-sufficient and sustaining": {
     "learn basic lifeskills": {
       "learn how to cook": {
-        "learn the basics of food and how cooking and preparation alters it": "Method",
-        "learn the different cooking methods and how it alters foods": "Methods",
-        "learn how mixing ingredients and how it changes chemistry and food functionality": "Method",
-        "learn a recipe or food genre type to master": "Method",
-        "learn how to be versatile with your cooking and explore other genres and know how to adjust": "Method",
+        "learn the basics of food and how cooking/preparation alters it": "Method",
+        "learn the different cooking methods and how each alters foods": "Methods",
+        "learn how mixing ingredients changes chemistry and food functionality": "Method",
+        "learn a specific recipe or food genre type to master": "Method",
+        "learn how to be versatile with your cooking and explore other genres and know how to adjust genres": "Method",
         "learn how to be intuitive and feel out recipes and cooking without recipes and make the food taste how you envision": "Method",
         "learn basic food preparation skills (dicing, peeling, etc...)": "Method",
         "learn how to master the application of heat to food": "Method"
       },
       "learn how to home improve": {
       	"learn what a good home needs to thrive": "Method",
-	"learn basic home improvement skills like carpentry, handiwork, welding etc...":"Method",
-	"learn how to have awareness of your home's state so that you can always stay on top of it":"Method"
+	      "learn basic home improvement skills like carpentry, handywork, welding etc...":"Method",
+	      "learn how to have constant awareness of your home's state so that you can always stay on top of it":"Method"
       },
       "learn survival skills": {
-     	"learn the basics of human life and what it needs to survive":"Method",
-	"learn how to live and improve your life without the necessity of others":"Method",
-	"learn basic survival skills like creating a fire, shelter, getting food and water etc...":"Method",
-	"learn how to survive in any climate or any situation and be prepared":"Method"
+     	  "learn the basics of human life and what it needs to survive":"Method",
+	      "learn how to live and improve your life without the necessity of others":"Method",
+	      "learn basic survival skills like creating a fire, shelter, getting food and water etc...":"Method",
+	      "learn how to survive in any climate or any situation and be prepared":"Method"
+      },
+      "learn mechanics": {
+        "learn how cars work and how to service them": "Method",
+        "learn basic mechanical applications": "Method"
+      },
+      "learn how to be a proficient swimmer": {
+        "learn how to be comfortable in water": "Method",
+        "learn all swimming variants and be proficient in them": "Method",
+        "learn how to tread water with minimal energy": "Method",
+        "learn how to be able to carry heavy loads in water": "Method",
+        "learn how to control energy while under water and under stress": "Method",
+        "learn how to be comfortable in cold or dangerous waters": "Method"
       },
       "learn caretaking": {
       	"learn what the needs of others are and how you can meet them":"Method",
-	"learn how to properly interact with others to be kind and loving so you can be an effective caretaker":"Method",
-	"learn how to provide for others and go out of your way to make them feel loved":"Method"
+	      "learn how to properly interact with others to be kind and loving so you can be an effective caretaker":"Method",
+	      "learn how to provide for others and go out of your way to make them feel loved":"Method"
       },
       "learn basic hygiene": {
       	"learn how to identify which aesthetics suit yourself the most":"Method",
-	"learn how to make yourself look attractive at all times":"Method",
-	"learn how to maintain your appearance over time":"Method",
-	"learn how to maintain your body to keep function over time without diminishing it":"Method"
+	      "learn how to make yourself look attractive at all times":"Method",
+	      "learn how to maintain your appearance over time":"Method",
+	      "learn how to maintain your body to keep function over time without it diminishing":"Method"
       },
       "learn how to properly clean": {
-      	"learn what clean means":"Method",
-	"learn what products are used to clean what":"Method",
-	"learn proper cleaning methods for each associated things":"Method",
-	"learn proper cleaning technique":"Method"
+      	"learn what properly clean means":"Method",
+	      "learn what products are used to clean what":"Method",
+	      "learn proper cleaning methods for each associated thing":"Method",
+	      "learn proper cleaning technique":"Method"
       },
       "learn how to bake": {
       	"learn the fundamentals of baking and how it works":"Method",
-	"learn how to utilize all of the baking utensils to accomplish baking goals":"Method",
+	      "learn how to utilize all of the baking utensils to accomplish baking goals":"Method",
       },
       "learn how to sew/crochet/modify fabric": {
       	"learn the use and implication of being able to manupulate fabric":"Method",
-	"learn how to sew":"Method",
-	"learn how to crochet":"Method",
-	"learn how to fix up clothes":"Method"
+	      "learn how to sew":"Method",
+	      "learn how to crochet":"Method",
+	      "learn how to fix up clothes":"Method"
       },
       "learn how to take care of your clothes": {
       	"learn how to properly wash your clothes":"Method",
-	"learn how to properly maintain your clothes over time for them to last":"Method"
+	      "learn how to properly maintain your clothes over time for them to last":"Method"
       },
       "learn how to + actively budget": {
       	"learn the importance of budgeting":"Method",
-	"learn how to properly budget to reach financial goals:":"Method",
-	"learn how to encorporate budgeting into your routine":"Method",
+	      "learn how to properly budget to reach financial goals:":"Method",
+	      "learn how to encorporate budgeting into your routine":"Method",
       },
       "learn how to grow plants": {
       	"learn what plants need to grow and thrive":"Method",
-	"learn how to stay on top of your plants care":"Method",
-	"learn how to create a plant environment where they do well then average":"Method",
-	"learn how to grow for a nice yield and for beauty":"Method"
+	      "learn how to stay on top of your plants care":"Method",
+	      "learn how to create a plant environment where they do better then average":"Method",
+	      "learn how to grow for a nice yield and for beauty":"Method"
       }
     },
     "learn how to provide": {
@@ -1452,91 +1464,94 @@
     "be independent": {
       "learn what it takes to be able to do something without assistance": {
       	"learn what true indepenendence is":"Method",
-	"learn how to make yourself truly independent":"Method"
+	      "learn how to make yourself truly independent":"Method"
       },
-      "learn whtat it takes to be able to learn how to get to the point of no assistance": {
+      "learn what it takes to be able to learn how to get to the point of no assistance": {
       	"learn how to enable yourself to be able to be independent in reaching goals:":"Method"
       },
-      "learn how to wheen off during your journey to maximize progress and how to not need assistance": {
-      	"learn how to be okay with being dependent on others and how you can work with them to not later on":"MEthod",
-	"learn how to hold yourself accountable for growth and being independent":"Method"
+      "learn how to wheen off dependence during your journey to maximize progress and how to not need assistance": {
+      	"learn how to be okay with being dependent on others and how you can work with them to not be later on":"MEthod",
+	      "learn how to hold yourself accountable for growth and being independent":"Method"
       }
     }
   },
   "Become well respected and known by all": {
     "be charismatic": {
-        "learn rhetoric (pathos/logos/ethos)": {
-	  "learn what true pathos is and how it works":"Method",
-	  "learn what true logos is and how it works":"Method",
-	  "learn what true ethos is and how it works":"Method",
-	  "learn and study classical rhetoric":"Method",
-	  "learn and study modern rhetoric":"Method"
-	},
-        "learn how to be aesthetic (visually)": {
-	  "learn how to dress":"Method",
-	  "learn how to accessorize":"Method",
-	  "learn basic fashion":"Method",
-	  "learn how to show off personal features":"Method",
-	  "look how to be pleasing to look at when speaking":"Method"
-	},
-        "learn how to be current with trends": {
-	  "learn how to stay current with the news":"Method",
-	  "learn how to stay current with societal trends":"Method"
-	},
-        "learn how to be friendly": {
-	  "learn how to appear approachable":"Method",
-	  "learn how to be courteous":"Method",
-	  "learn how to properly greet people":"Method",
-	  "learn how to make good impressions":"Method",
-	  "learn to not swear":"Method"
-	},
-        "learn persuasion": {
-	  "learn how the brain is persuaded":"Method",
-	  "learn how to convey your points to others without making them feel imposed on":"Method",
-	  "learn how to formulate your points in a convincing, logical manner":"Method"
-	},
-        "learn how to public speak": {
-	  "learn how to conquer fear of public speaking":"Method",
-	  "learn how to control nerves when public speaking":"Method",
-	  "learn how to address a crowd when public speaking":"Method",
-	  "learn how to express focus on certain individuals when public speaking":"Method",
-	  "learn how to be clear, concise, with inflection when public speaking":"Method",
-	  "learn how to create an effective verbal agenda when public speaking":"Method",
-	  "learn how to be fluid in your agenda when public speaking":"Method"
-	},
-        "learn how to inspire interest (enigmatism)": {
-	  "learn how to not reveal too much of yourself to others all of the time":"Method",
-	  "learn how to play with the other's desire to learn more about you":"Method",
-	  "learn what makes an interesting person":"Method",
-	  "learn how to become an interesting person":"Method"
-	},
-        "learn how to have confidence": {
-	  "learn what makes a confident person":"Method",
-	  "learn what your confidence shortcomings are and correct them":"Method",
-	  "learn that nobody cares and even if they did it has no effect on your life":"Method",
-	  "learn to own your stuff":"Method"
-	},
-        "learn how to invoke feelings in others": {
-	  "learn what certain media/entertainment has that invokes a reaction among the viewers":"Method",
-	  "learn how to emulate how entertainment invokes reaction into your own behaviour":"Method"
-	},
-        "learn how to be agreeable": {
-	  "learn to not argue with others":"Method",
-	  "learn how to find common ground with others":"Method",
-	  "learn how to be someone everyone else can get along with and respect":"Method",
-	  "learn to never be unreasonable":"Method"
-	},
-        "learn how to be funny/witty": {
-	  "learn what makes stand up comedians/jesters funny":"Method",
-	  "learn how to be quick-thinking and apply that to quips from others":"Method",
-	  "learn how to set stage, properly set up jokes, and execute":"Method"
-	},
-        "learn to be composed at all times": {
-	  "learn to always have your things together and have a rough plan":"Method",
-	  "learn to always appear like you are in control":"Method"
-	 }
+      "learn rhetoric (pathos/logos/ethos)": {
+        "learn what true pathos is and how it works":"Method",
+        "learn what true logos is and how it works":"Method",
+        "learn what true ethos is and how it works":"Method",
+        "learn and study classical rhetoric":"Method",
+        "learn and study modern rhetoric":"Method"
+	    },
+      "learn how to be aesthetic (visually)": {
+        "learn how to dress":"Method",
+        "learn how to accessorize":"Method",
+        "learn basic fashion":"Method",
+        "learn how to show off personal features":"Method",
+        "look how to be pleasing to look at when speaking":"Method"
+	    },
+      "learn how to be current with trends": {
+        "learn how to stay current with the news":"Method",
+        "learn how to stay current with societal trends":"Method"
+	    },
+      "learn how to be friendly": {
+        "learn how to appear approachable":"Method",
+        "learn how to be courteous":"Method",
+        "learn how to properly greet people":"Method",
+        "learn how to make good impressions":"Method",
+        "learn to not swear":"Method",
+        "learn how to smile with others": "Method"
+	    },
+      "learn persuasion": {
+        "learn how the brain is persuaded":"Method",
+        "learn how to convey your points to others without making them feel imposing":"Method",
+        "learn how to formulate your points in a convincing, logical manner":"Method"
+      },
+      "learn how to public speak": {
+        "learn how to conquer fear of public speaking":"Method",
+        "learn how to control nerves when public speaking":"Method",
+        "learn how to address a crowd when public speaking":"Method",
+        "learn how to express focus on certain individuals when public speaking":"Method",
+        "learn how to be clear, concise, with inflection when public speaking":"Method",
+        "learn how to create an effective verbal agenda when public speaking":"Method",
+        "learn how to be fluid in your agenda when public speaking":"Method"
+      },
+      "learn how to inspire interest (enigmatism)": {
+        "learn how to not reveal too much of yourself to others all the time":"Method",
+        "learn how to play with other's desire to learn more about you":"Method",
+        "learn what makes an interesting person":"Method",
+        "learn how to become an interesting person":"Method"
+      },
+      "learn how to have confidence": {
+        "learn what makes a confident person":"Method",
+        "learn what your confidence shortcomings are and correct them":"Method",
+        "learn that nobody cares and even if they did it has no bearing on your life":"Method",
+        "learn to own your stuff":"Method"
+      },
+      "learn how to invoke feelings in others": {
+        "learn what characteristics certain media/entertainment has that invokes a reaction among the viewers":"Method",
+        "learn how to emulate how entertainment invokes reaction into your own behaviour":"Method"
+      },
+      "learn how to be agreeable": {
+        "learn to not argue with others":"Method",
+        "learn how to find common ground with others":"Method",
+        "learn how to be someone everyone else can get along with and respect":"Method",
+        "learn to never be unreasonable":"Method"
+      },
+      "learn how to be funny/witty": {
+        "learn what makes stand up comedians/jesters funny":"Method",
+        "learn how to be quick-thinking and apply that to quips from others":"Method",
+        "learn how to set stage, properly set up jokes, and execute":"Method"
+      },
+      "learn to be composed at all times": {
+        "learn to always have your things together and have a rough plan":"Method",
+        "learn to always appear like you are in control":"Method"
+      }
     },
-    "know you are with whom you associate": {},
+    "know you are with whom you associate": {
+      "know you are like with whom you associate": "Method"
+    },
     "do not slander your own name/self-respect": {
         "know your own worth and do not tolerate less": {
 	  "learn what the value of your own self-worth is and how to increase it":"Method",
