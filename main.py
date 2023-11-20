@@ -74,7 +74,7 @@ char_len = len(ttp)
 width = 828
 height = 1792
 
-im = Image.open("./template/sisy_template.png")
+im = Image.open("./template/sisy_f.png")
 draw = ImageDraw.Draw(im)
 
 #font_size = int((height / char_len))
@@ -99,7 +99,7 @@ if text_l == 2:
 elif text_l > 2:
     font = font.font_variant(size=font_size*text_l)
 
-draw.multiline_text((width / 2, height / 2.25), text, font=font, fill="black", anchor="mm")
+draw.multiline_text((width / 2, height / 2.66), text, font=font, fill="black", anchor="mm")
 
 chosen_path = lookup_path(ttp)
 chosen_path = "->".join(chosen_path[:-1])
