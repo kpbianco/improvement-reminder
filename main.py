@@ -82,18 +82,16 @@ font_size = 1000
 font = ImageFont.truetype("Arial.ttf", font_size)
 
 text = ttp
-print(type(ttp))
+
 while font_size > 1:
   if font.getlength(text) < width*.6:
     break
   font_size -= 1
   font = font.font_variant(size=font_size)
 
-print(font_size)
-print(width/font_size)
-print((width/font_size))
+font_size1f=font_size
 text, text_l = get_wrapped_text(text, font, line_length=((10*font_size)))
-print(text_l)
+
 
 if text_l == 2:
     font = font.font_variant(size=font_size*1.33)
@@ -102,33 +100,48 @@ elif text_l > 2:
     font = font.font_variant(size=font_size*text_l)
 
 draw.multiline_text((width / 2, height / 2), text, font=font, fill="black", anchor="mm")
-print(ttp)
+
 chosen_path = lookup_path(ttp)
 chosen_path = "->".join(chosen_path[:-1])
-print(chosen_path)
+cp_len = len(chosen_path)
 
-font_size = 1000
-font2 = ImageFont.truetype("Arial.ttf", font_size)
-while font_size > 1:
-  if font2.getlength(text) < width*.6:
-    break
-  font_size -= 1
-  font2 = font2.font_variant(size=font_size)
+fl_final = font_size
 
-text2, text_l2 = get_wrapped_text(chosen_path, font2, line_length=((10*font_size)))
+# font_size = 1000
+font2 = ImageFont.truetype("Arial.ttf", font_size1f*.66)
+# while font_size > 1:
+#   if font2.getlength(text) < width*.6:
+#     break
+#   font_size -= 1
+#   font2 = font2.font_variant(size=font_size)
 
-font2 = font2.font_variant(size=font_size*(text_l2/height*100)*text_l2)
 
-# if text_l2 == 2:
-#     font2 = font2.font_variant(size=font_size*.66)
 
-# elif text_l2 > 2:
-#     font2 = font2.font_variant(size=font_size*0.225*text_l2)
+# print(font_size)
+t2_ll = 10*font_size1f
+text2, text_l2 = get_wrapped_text(chosen_path, font2, line_length=t2_ll)
 
+# # font_size2 = 1
+# while font_size1f:
+#     # iterate until the text size is just larger than the criteria
+#     font_size1f -= 1
+#     font2 = font2.font_variant(size=font_size)
+
+# print(str(t2_ll) + ":1")
+# print(str(cp_len) + ":2")
+# print('font size 2: ' + str(font_size))
+#font2 = font2.font_variant(size=(t2_ll // cp_len) * height/font_size // font_size)
+
+print(str(text_l2) + ":" + str(cp_len))
+font_size2f=font_size1f*(1.33 * text_l2)*.33
+print(str(font_size1f) + ":" + str(font_size2f) + ":" + str(20- (20 *(1/(font_size1f*0.66)))) + ":" + str(fl_final))
+
+
+font2 = font2.font_variant(size=20- (20 *(1/(font_size1f*0.66))))
 draw.multiline_text((width / 2, height-(height*0.1)), text=text2, font=font2, fill="black", anchor="mm" )
 im.save("static/out.png")
 
-print(text_l2)
+
 
 
 # account_sid = 123
