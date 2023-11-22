@@ -74,12 +74,12 @@ char_len = len(ttp)
 width = 828
 height = 1792
 
-im = Image.open("./template/sisy_f.png")
+im = Image.open("./template/sisy_final.png")
 draw = ImageDraw.Draw(im)
 
 #font_size = int((height / char_len))
 font_size = 1000
-font = ImageFont.truetype("Arial.ttf", font_size)
+font = ImageFont.truetype("PlayfairDisplay-Regular.ttf", font_size)
 
 text = ttp
 
@@ -108,7 +108,7 @@ cp_len = len(chosen_path)
 fl_final = font_size
 
 # font_size = 1000
-font2 = ImageFont.truetype("Arial.ttf", font_size1f*.66)
+font2 = ImageFont.truetype("PlayfairDisplay-Regular.ttf", font_size1f*.66)
 # while font_size > 1:
 #   if font2.getlength(text) < width*.6:
 #     break
